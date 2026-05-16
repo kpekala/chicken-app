@@ -1,0 +1,4 @@
+POST https://overpass-api.de/api/interpreter HTTP/1.1
+content-type: application/x-www-form-urlencoded
+
+data=[out:json][timeout:25];(node["shop"="supermarket"](50.0,19.8,50.1,20.1);way["shop"="supermarket"](50.0,19.8,50.1,20.1););out center;

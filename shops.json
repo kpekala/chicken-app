@@ -1,0 +1,5036 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-05-16T21:33:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 682408437,
+      "lat": 50.0930365,
+      "lon": 19.9940047,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "38",
+        "addr:place": "Osiedle Oświecenia",
+        "addr:postcode": "31-636",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "name": "Lewiatan",
+        "operator": "Lewiatan",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-os-oswiecenia-38"
+      }
+    },
+    {
+      "type": "node",
+      "id": 749779812,
+      "lat": 50.0130369,
+      "lon": 19.9718397,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "55",
+        "addr:street": "Łużycka",
+        "brand": "Stokrotka",
+        "brand:wikidata": "Q9345945",
+        "brand:wikipedia": "pl:Stokrotka (sieć handlowa)",
+        "check_date:opening_hours": "2021-03-15",
+        "name": "Stokrotka",
+        "opening_hours": "Mo-Sa 06:30-21:30; Su 08:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 749934309,
+      "lat": 50.0182986,
+      "lon": 19.9828187,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "10",
+        "addr:postcode": "30-664",
+        "addr:street": "Na Kozłówce",
+        "brand": "Stokrotka",
+        "brand:wikidata": "Q9345945",
+        "brand:wikipedia": "pl:Stokrotka (sieć handlowa)",
+        "name": "Stokrotka",
+        "opening_hours": "Mo-Sa 07:00-21:00;Su 09:00-19:00",
+        "operator": "Stokrtoka Sp. z o.o.",
+        "phone": "+48515110187",
+        "shop": "supermarket",
+        "website": "https://stokrotka.pl/sklep-szczegoly/?sklep_id=432"
+      }
+    },
+    {
+      "type": "node",
+      "id": 937401644,
+      "lat": 50.0977882,
+      "lon": 19.9593012,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "13",
+        "addr:postcode": "31-234",
+        "addr:street": "Kuźnicy Kołłątajowskiej",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "name": "Lewiatan",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-ul-kuznicy-kollatajowskiej-13"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1272564216,
+      "lat": 50.0079619,
+      "lon": 19.9590189,
+      "tags": {
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "opening_hours": "Mo-Sa 05:00-23:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "payment:blik": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:diners_club": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:sodexo": "yes",
+        "payment:v_pay": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "phone": "+48 22 205 33 00",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,104"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1286780317,
+      "lat": 50.0729121,
+      "lon": 19.9800262,
+      "tags": {
+        "addr:housenumber": "30",
+        "addr:street": "Janusza Meissnera",
+        "check_date": "2026-04-13",
+        "name": "Delikatesy Podwawelskie",
+        "opening_hours": "Mo-Fr 06:30-21:30; Sa 07:30-20:00; Su 08:00-19:00",
+        "shop": "supermarket",
+        "website": "http://www.podwawelska.com.pl/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1308938024,
+      "lat": 50.0797813,
+      "lon": 19.8787021,
+      "tags": {
+        "name": "Cash&Carry Eurocash",
+        "note": "Tylko sprzedaż hurtowa (czyli dla firm)",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1330778798,
+      "lat": 50.0760303,
+      "lon": 19.9281848,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "28",
+        "addr:postcode": "30-011",
+        "addr:street": "Wrocławska",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "note": "Godziny otwarcia w niedziele handlowe: 09:00-20:00",
+        "opening_hours": "Mo-Sa 06:00-23:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,1274",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1390973283,
+      "lat": 50.0732055,
+      "lon": 20.0250517,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "16A",
+        "addr:place": "Osiedle Kolorowe",
+        "addr:postcode": "31-940",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "check_date:opening_hours": "2025-06-22",
+        "diet:halal": "no",
+        "diet:kosher": "no",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "opening_hours": "Mo-Sa 06:00-23:00; Su 08:00-22:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1393386241,
+      "lat": 50.0990236,
+      "lon": 19.9647139,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "20B",
+        "addr:street": "Księdza Józefa Meiera",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Sa 06:00-20:00; Su 08:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-ul-ksjmeiera-20b"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1406784225,
+      "lat": 50.0733158,
+      "lon": 20.0289714,
+      "tags": {
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "check_date:opening_hours": "2026-03-07",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Fr 06:30-21:30; Su 10:00-18:00; Sa 07:30-18:00",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-os-kolorowe-10",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1417926763,
+      "lat": 50.0428944,
+      "lon": 19.9686759,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "18",
+        "addr:street": "Powstańców Wielkopolskich",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "check_date": "2025-07-25",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,106"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1535053386,
+      "lat": 50.0269991,
+      "lon": 19.9206541,
+      "tags": {
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-20:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "toilets:wheelchair": "no",
+        "website": "https://www.biedronka.pl/pl/shop,id,1181",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1641299839,
+      "lat": 50.0867939,
+      "lon": 19.9075832,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "10",
+        "addr:street": "Marii Jaremy",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 07:00-17:00",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-ul-jaremy-10"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1642467402,
+      "lat": 50.0719148,
+      "lon": 19.9242806,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "1",
+        "addr:postcode": "30-074",
+        "addr:street": "Kazimierza Wielkiego",
+        "check_date": "2025-06-09",
+        "internet_access": "no",
+        "name": "Alpo",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 10:00-20:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1740702610,
+      "lat": 50.0896302,
+      "lon": 19.9625182,
+      "tags": {
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1750533326,
+      "lat": 50.0868186,
+      "lon": 20.0101707,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "12",
+        "addr:place": "Osiedle Józefa Strusia",
+        "addr:postcode": "31-808",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Fr 06:00-21:30; Sa 06:00-15:00; PH off",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-os-strusia-12"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1780532619,
+      "lat": 50.0791035,
+      "lon": 19.8851777,
+      "tags": {
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "check_date:opening_hours": "2025-04-15",
+        "diet:kosher": "no",
+        "name": "Lewiatan",
+        "note": "Godziny otwarcia w niedziele handlowe: 09.00-15.00",
+        "opening_hours": "Mo-Fr 07:00-21:30; Sa 07:00-21:00",
+        "shop": "supermarket",
+        "source": "Q11755396",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1780610629,
+      "lat": 50.081526,
+      "lon": 19.8826798,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "16",
+        "addr:postcode": "30-149",
+        "addr:street": "Balicka",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "check_date:opening_hours": "2025-04-04",
+        "diet:kosher": "no",
+        "name": "Lewiatan",
+        "note": "Niedziela handlowa: 09:00-15:00",
+        "opening_hours": "Mo-Fr 07:00-21:30; Sa 07:00-21:00",
+        "parking": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "shop": "supermarket",
+        "website": "https://lewiatan.pl/znajdz-sklep/lewiatan-krakow-ul-balicka-16",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1832715611,
+      "lat": 50.0934188,
+      "lon": 20.0223255,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "51",
+        "addr:postcode": "31-637",
+        "addr:street": "Generała Leopolda Okulickiego",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "opening_hours": "Mo-Sa 05:00-22:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,1281"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1858271364,
+      "lat": 50.0863367,
+      "lon": 19.8942819,
+      "tags": {
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "check_date:opening_hours": "2025-05-27",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Sa 06:00-22:00; Su 08:00-20:00",
+        "shop": "supermarket",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1893500099,
+      "lat": 50.0768598,
+      "lon": 19.9307097,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "5",
+        "addr:postcode": "30-010",
+        "addr:street": "Władysława Łokietka",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "note": "Godziny otwarcia w niedziele handlowe: 06:00-22:00",
+        "opening_hours": "Mo-Sa 06:00-22:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+48 800 080 010",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1948024001,
+      "lat": 50.0985663,
+      "lon": 20.0125181,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "26C",
+        "addr:place": "Osiedle Bohaterów Września",
+        "addr:postcode": "31-621",
+        "brand": "Delikatesy Centrum",
+        "brand:wikidata": "Q11693824",
+        "brand:wikipedia": "pl:Delikatesy Centrum",
+        "name": "Delikatesy Centrum",
+        "opening_hours": "Mo-Sa 06:30-21:00",
+        "shop": "supermarket",
+        "website": "https://www.delikatesy.pl/sklepy/203249"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1967677030,
+      "lat": 50.0060917,
+      "lon": 19.8765269,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "69",
+        "addr:postcode": "30-393",
+        "addr:street": "Doktora Józefa Babińskiego",
+        "brand": "Netto",
+        "brand:wikidata": "Q552652",
+        "brand:wikipedia": "da:Netto (supermarkedskæde)",
+        "contact:website": "https://netto.pl/sklepy/krakow/ul-babinskiego-69/b326153fc06e4949b28e5d3107113a14/",
+        "name": "Netto",
+        "opening_hours": "Mo-Sa 06:00-22:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2000505637,
+      "lat": 50.0652556,
+      "lon": 19.8663024,
+      "tags": {
+        "check_date": "2026-01-11",
+        "name": "Jubilat",
+        "opening_hours": "Mo-Fr 06:30-21:30; Sa 07:00-19:00; Su 09:00-17:00",
+        "operator": "Handlowa Spółdzielnia Jubilat",
+        "phone": "+48 12 425 25 87",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2059021510,
+      "lat": 50.0450808,
+      "lon": 19.9506365,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "3",
+        "addr:postcode": "30-530",
+        "addr:street": "Bolesława Limanowskiego",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "opening_hours": "Mo-Sa 06:00-22:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2254371699,
+      "lat": 50.0602182,
+      "lon": 19.9663086,
+      "tags": {
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "check_date:opening_hours": "2023-06-27",
+        "name": "Lewiatan",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-al-pokoju-14"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2254402543,
+      "lat": 50.0824617,
+      "lon": 19.9524194,
+      "tags": {
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Sa 06:15-22:00",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2365491444,
+      "lat": 50.0769484,
+      "lon": 19.9807725,
+      "tags": {
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Fr 07:00-21:30; Sa 07:00-21:00",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-ul-ugorek-14"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2392788730,
+      "lat": 50.0437551,
+      "lon": 19.9301165,
+      "tags": {
+        "brand": "Aldi",
+        "brand:wikidata": "Q41171373",
+        "name": "Aldi",
+        "opening_hours": "Mo-Sa 06:00-22:00",
+        "shop": "supermarket",
+        "toilets": "yes",
+        "website": "https://www.aldi.pl/wyszukiwarka-sklepu/krakow/komandosow-8/6248441.html",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2394254775,
+      "lat": 50.0286672,
+      "lon": 19.9516961,
+      "tags": {
+        "brand": "Auchan",
+        "brand:wikidata": "Q758603",
+        "brand:wikipedia": "en:Auchan",
+        "level": "0",
+        "name": "Auchan",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-22:00; PH off",
+        "operator": "Auchan",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2558240274,
+      "lat": 50.0786229,
+      "lon": 19.8790366,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "1C",
+        "addr:postcode": "30-148",
+        "addr:street": "Samuela Bogumiła Lindego",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "check_date:opening_hours": "2024-04-09",
+        "level": "0",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 06:00-22:30",
+        "shop": "supermarket",
+        "website": "https://www.lidl.pl/s/pl-PL/sklepy/krakow/ul-lindego-1c/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2833540322,
+      "lat": 50.0081795,
+      "lon": 19.9613767,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "55",
+        "addr:postcode": "30-611",
+        "addr:street": "Marii i Bolesława Wysłouchów",
+        "name": "Zachęta",
+        "opening_hours": "Mo-Fr 07:00-21:00; Sa 07:30-20:00; Su 10:00-18:00",
+        "operator": "Zachęta",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2942271136,
+      "lat": 50.0882471,
+      "lon": 19.9648176,
+      "tags": {
+        "brand": "Netto",
+        "brand:wikidata": "Q552652",
+        "brand:wikipedia": "da:Netto (supermarkedskæde)",
+        "check_date": "2025-06-27",
+        "contact:website": "https://netto.pl/sklepy/krakow/ul-dobrego-pasterza-67/b736448228d94bb8a729c5ef447e2c75/",
+        "internet_access": "no",
+        "name": "Netto",
+        "opening_hours": "Mo-Sa 06:00-22:00; Su off",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2977944799,
+      "lat": 50.0892567,
+      "lon": 19.9799713,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "122a",
+        "addr:postcode": "31-416",
+        "addr:street": "Dobrego Pasterza",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "opening_hours": "Mo-Sa 05:00-23:30",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,1057"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3031704535,
+      "lat": 50.0781669,
+      "lon": 20.0303589,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "10",
+        "addr:place": "Osiedle Teatralne",
+        "addr:postcode": "31-930",
+        "brand": "Netto",
+        "brand:wikidata": "Q552652",
+        "brand:wikipedia": "da:Netto (supermarkedskæde)",
+        "check_date:opening_hours": "2025-07-21",
+        "contact:website": "https://netto.pl/sklepy/krakow/os-teatralne-10/9e9f5698974245de8e54207e00f31f57/",
+        "name": "Netto",
+        "opening_hours": "Mo-Sa 06:00-22:00",
+        "operator": "Netto",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3043099707,
+      "lat": 50.0858458,
+      "lon": 20.0182844,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "4",
+        "addr:place": "Osiedle Na Lotnisku",
+        "addr:postcode": "31-801",
+        "name": "PSS Społem",
+        "opening_hours": "Mo-Fr 06:30-20:00; Sa 07:00-17:00; Su 08:00-16:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3043501433,
+      "lat": 50.0885359,
+      "lon": 19.9944499,
+      "tags": {
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "name": "Lewiatan",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-os-oswiecenia-21"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3043510885,
+      "lat": 50.0899565,
+      "lon": 20.0265442,
+      "tags": {
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Fr 06:30-21:30; Sa 07:00-20:00; Su 10:00-18:00",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-os-zlota-jesien-13"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3137479726,
+      "lat": 50.0870381,
+      "lon": 19.8944976,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "79",
+        "addr:postcode": "31-357",
+        "addr:street": "Josepha Conrada",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 06:00-22:30",
+        "ref": "1744",
+        "shop": "supermarket",
+        "website": "https://www.lidl.pl/s/pl-PL/sklepy/krakow/ul-josepha-conrada-79/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3208840610,
+      "lat": 50.0790897,
+      "lon": 20.0100997,
+      "tags": {
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "opening_hours": "Mo-Sa 05:00-23:30; Su 08:00-20:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,97"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3380829739,
+      "lat": 50.0135883,
+      "lon": 19.996491,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "259",
+        "addr:postcode": "30-663",
+        "addr:street": "Wielicka",
+        "brand": "Kaufland",
+        "brand:wikidata": "Q685967",
+        "brand:wikipedia": "pl:Kaufland",
+        "name": "Kaufland",
+        "opening_hours": "Mo-Sa 06:00-23:00; Su 08:00-20:00",
+        "self_checkout": "yes",
+        "shop": "supermarket",
+        "website": "https://www.kaufland.pl/dla-klienta/sklepy/krakow-prokocim-1020.html",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3569114702,
+      "lat": 50.0924852,
+      "lon": 19.9858718,
+      "tags": {
+        "name": "Oaza",
+        "opening_hours": "PH off; Mo-Fr 06:00-22:00; Sa,Su 08:00-22:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3611359330,
+      "lat": 50.0821338,
+      "lon": 19.9523009,
+      "tags": {
+        "check_date": "2026-01-12",
+        "name": "Best Market",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3617238770,
+      "lat": 50.0974639,
+      "lon": 20.0199469,
+      "tags": {
+        "brand": "Delikatesy Centrum",
+        "brand:wikidata": "Q11693824",
+        "brand:wikipedia": "pl:Delikatesy Centrum",
+        "name": "Delikatesy Centrum",
+        "opening_hours": "Mo-Sa 06:30-21:30; Su 09:00-19:00 \"tylko niedziele handlowe\"",
+        "shop": "supermarket",
+        "website": "https://www.delikatesy.pl/sklepy/203251"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3745362778,
+      "lat": 50.012446,
+      "lon": 19.9540807,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "39",
+        "addr:postcode": "30-611",
+        "addr:street": "Wincentego Witosa",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Fr 07:00-21:30; Sa 07:00-21:00",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-ul-witosa-39",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3772257981,
+      "lat": 50.0948423,
+      "lon": 20.011012,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:place": "Osiedle Bohaterów Września",
+        "name": "Ekologia-Natura-Zdrowie",
+        "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-14:00",
+        "organic": "only",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3870553607,
+      "lat": 50.0840955,
+      "lon": 20.0390063,
+      "tags": {
+        "addr:housenumber": "22B",
+        "addr:place": "Osiedle Krakowiaków",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Fr 06:30-21:00; Sa 07:00-20:00",
+        "operator": "Lewiatan",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-os-krakowiakow-22b",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4094925519,
+      "lat": 50.0830208,
+      "lon": 19.972177,
+      "tags": {
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "name": "Lewiatan",
+        "operator": "Lewiatan",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-ul-mlynska-8"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4209730923,
+      "lat": 50.0943235,
+      "lon": 19.9274731,
+      "tags": {
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "opening_hours": "Mo-Sa 06:00-22:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,89"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4231244090,
+      "lat": 50.0489774,
+      "lon": 19.9638676,
+      "tags": {
+        "addr:housenumber": "5",
+        "addr:postcode": "30-702",
+        "addr:street": "Tadeusza Romanowicza",
+        "name": "Alpo",
+        "opening_hours": "Mo-Fr 07:00-22:00; Sa 08:00-22:00; Su 10:00-22:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4242444822,
+      "lat": 50.0448465,
+      "lon": 19.9259363,
+      "tags": {
+        "alt_name": "Lewiatan",
+        "brand": "Lewiatan",
+        "name": "Market Punkt",
+        "note": "Godziny otwarcia w niedziele handlowe: 09:00-15:00",
+        "opening_hours": "Mo-Fr 07:00-21:30; Sa 07:00-21:00",
+        "shop": "supermarket",
+        "wikimedia_commons": "File:Lewiatan Market Punkt.jpg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4278169574,
+      "lat": 50.0732709,
+      "lon": 19.9852441,
+      "tags": {
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Fr 06:30-21:30; Sa 07:00-20:00; Su 10:00-18:00",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-aleja-jana-pawla-ii-15",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4306223246,
+      "lat": 50.0679695,
+      "lon": 19.947327,
+      "tags": {
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "check_date:opening_hours": "2025-04-17",
+        "email": "bok@biedronka.eu",
+        "level": "-1",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "opening_hours": "Mo-Su,PH 06:15-22:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "ref": "5197",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,2396",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4426462376,
+      "lat": 50.0724898,
+      "lon": 20.0362182,
+      "tags": {
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "check_date:opening_hours": "2025-01-30",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Fr 06:30-21:30; Sa 07:00-21:00; Su 10:00-18:00",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-os-centrum-d-bl1",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4442408126,
+      "lat": 50.0578799,
+      "lon": 19.9632628,
+      "tags": {
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "opening_hours": "Mo-Sa 06:30-22:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4460663347,
+      "lat": 50.0842153,
+      "lon": 20.0272441,
+      "tags": {
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "check_date:opening_hours": "2026-03-25",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "opening_hours": "Mo-Sa 05:00-22:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4460667961,
+      "lat": 50.0156213,
+      "lon": 19.9512472,
+      "tags": {
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "opening_hours": "Mo-Sa 06:00-23:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,1287"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4560723296,
+      "lat": 50.0801343,
+      "lon": 20.0109966,
+      "tags": {
+        "brand": "Stokrotka",
+        "brand:wikidata": "Q9345945",
+        "brand:wikipedia": "pl:Stokrotka (sieć handlowa)",
+        "name": "Stokrotka",
+        "opening_hours": "Mo-Fr 06:30-22:00; Sa 07:00-22:00; Su 09:00-20:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4582782422,
+      "lat": 50.034457,
+      "lon": 19.9317842,
+      "tags": {
+        "addr:housenumber": "5/1LU",
+        "addr:street": "Tadeusza Szafrana",
+        "check_date": "2025-12-20",
+        "name:signed": "no",
+        "opening_hours": "Mo-Sa 06:30-22:00; Su 08:00-16:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4678971373,
+      "lat": 50.078535,
+      "lon": 19.8920637,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "14",
+        "addr:postcode": "30-126",
+        "addr:street": "Stańczyka",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "en:Biedronka",
+        "check_date:opening_hours": "2024-05-11",
+        "diet:kosher": "no",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 06:00-23:30; Su off",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,3185",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4857481624,
+      "lat": 50.0944984,
+      "lon": 20.0024298,
+      "tags": {
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "name": "Lewiatan",
+        "name:pl": "Lewiatan",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-os-zlotego-wieku-19-20"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4906685190,
+      "lat": 50.0785206,
+      "lon": 19.8974323,
+      "tags": {
+        "name": "Natur House",
+        "organic": "only",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4958777185,
+      "lat": 50.0603135,
+      "lon": 19.9667899,
+      "tags": {
+        "check_date:opening_hours": "2023-06-27",
+        "name": "Delikatesy Podwawelskie",
+        "opening_hours": "Mo-Sa 07:00-21:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5110886021,
+      "lat": 50.0582425,
+      "lon": 19.9492608,
+      "tags": {
+        "check_date": "2026-03-07",
+        "name": "Delikatesy Podwawelskie",
+        "opening_hours": "Mo-Fr 06:30-21:30; Su 08:00-16:00; Sa 07:00-21:30",
+        "phone": "+48122520304",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5131390275,
+      "lat": 50.0584187,
+      "lon": 19.9800841,
+      "tags": {
+        "check_date": "2025-11-25",
+        "name": "Bliski",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5172902721,
+      "lat": 50.0174906,
+      "lon": 19.9658214,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5263654707,
+      "lat": 50.096392,
+      "lon": 19.9484038,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "46",
+        "addr:postcode": "31-231",
+        "addr:street": "Siewna",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,2986",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5332814443,
+      "lat": 50.0863744,
+      "lon": 19.9387191,
+      "tags": {
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "check_date": "2025-03-31",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "opening_hours": "Mo-Sa 06:30-21:30",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5371065003,
+      "lat": 50.0817763,
+      "lon": 19.9998022,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "1/LU6",
+        "addr:postcode": "31-878",
+        "addr:street": "Bolesława Orlińskiego",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "check_date:opening_hours": "2023-06-19",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Fr 06:30-22:00; Sa 07:00-22:00; Su 09:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-krakow-nowa-huta-ul-orlinskiego-1-lu6",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5431937956,
+      "lat": 50.0820792,
+      "lon": 20.0167036,
+      "tags": {
+        "check_date": "2026-01-10",
+        "name": "Avita",
+        "opening_hours": "Mo-Sa 06:30-21:30; Su 09:00-18:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5448195523,
+      "lat": 50.0888066,
+      "lon": 19.9491593,
+      "tags": {
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "opening_hours": "Mo-Sa 06:30-21:30; Su 08:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,3027",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5482216292,
+      "lat": 50.0841107,
+      "lon": 19.9362424,
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:street": "Bratysławska",
+        "alt_name": "Kaufland Bratysławska",
+        "brand": "Kaufland",
+        "brand:wikidata": "Q685967",
+        "kids_area": "no",
+        "kids_area:fee": "no",
+        "kids_area:indoor": "no",
+        "kids_area:outdoor": "no",
+        "kids_area:supervised": "no",
+        "level": "0",
+        "name": "Kaufland",
+        "opening_hours": "Mo-Sa 06:00-23:00",
+        "operator": "Kaufland Polska Markety sp. z o.o.",
+        "organic": "yes",
+        "phone": "+48 800 300 062",
+        "shop": "supermarket",
+        "toilets": "yes",
+        "toilets:access": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6031964918,
+      "lat": 50.0954117,
+      "lon": 19.9887577,
+      "tags": {
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "name": "Lewiatan",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6062995387,
+      "lat": 50.0176145,
+      "lon": 19.8932039,
+      "tags": {
+        "brand": "Carrefour Market",
+        "brand:wikidata": "Q2689639",
+        "name": "Carrefour Market",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 10:00-20:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6137480688,
+      "lat": 50.055732,
+      "lon": 19.9277712,
+      "tags": {
+        "level": "0",
+        "name": "Jubilat",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6221711488,
+      "lat": 50.0117483,
+      "lon": 19.8872125,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "33",
+        "addr:postcode": "30-392",
+        "addr:street": "Czerwone Maki",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "level": "0",
+        "name": "Lidl",
+        "opening_hours": "Su 09:00-20:00; Mo-Sa 06:00-22:30",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6274197700,
+      "lat": 50.0625803,
+      "lon": 19.9364224,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "34",
+        "addr:postcode": "31-010",
+        "addr:street": "Rynek Główny",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 06:00-23:00;",
+        "phone": "+48 800 080010",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6469870805,
+      "lat": 50.0226238,
+      "lon": 20.0492139,
+      "tags": {
+        "brand": "Stokrotka",
+        "brand:wikidata": "Q9345945",
+        "brand:wikipedia": "en:Stokrotka",
+        "name": "Stokrotka",
+        "opening_hours": "Mo-Fr 06:30-22:00; Sa 07:00-22:00; Su 09:00-20:00",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6524308041,
+      "lat": 50.0750111,
+      "lon": 20.0327816,
+      "tags": {
+        "name": "Ząbek",
+        "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-14:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6709548177,
+      "lat": 50.0768457,
+      "lon": 19.9059715,
+      "tags": {
+        "air_conditioning": "yes",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "check_date": "2025-06-09",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Sa 06:30-21:30; Su 08:00-20:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-ul-glowackiego-4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6795542786,
+      "lat": 50.0494913,
+      "lon": 19.9588787,
+      "tags": {
+        "addr:housenumber": "4/464",
+        "addr:postcode": "30-701",
+        "addr:street": "Przemysłowa",
+        "name": "Grządka",
+        "name:en": "Grzadka",
+        "opening_hours": "Mo-Fr 11:00-19:00; Sa 11:00-14:00",
+        "phone": "+48 1235 232 327",
+        "shop": "supermarket",
+        "website": "https://grzadka.pl/sklepy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6873095909,
+      "lat": 50.094506,
+      "lon": 20.0087513,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "1K",
+        "addr:place": "Osiedle Bohaterów Września",
+        "addr:postcode": "31-620",
+        "brand": "Aldi",
+        "brand:wikidata": "Q41171373",
+        "brand:wikipedia": "en:Aldi",
+        "check_date:opening_hours": "2024-11-30",
+        "name": "Aldi",
+        "opening_hours": "Mo-Sa 06:00-22:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7069125306,
+      "lat": 50.0142,
+      "lon": 19.8960734,
+      "tags": {
+        "addr:housenumber": "15",
+        "addr:street": "Lubostroń",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "opening_hours": "Mo-Sa 06:30-22:00;",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "payment:blik": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:diners_club": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:sodexo": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,3490",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7272839348,
+      "lat": 50.0788644,
+      "lon": 19.922796,
+      "tags": {
+        "air_conditioning": "yes",
+        "brand": "Aldi",
+        "brand:wikidata": "Q41171373",
+        "name": "Aldi",
+        "opening_hours": "Mo-Sa 06:00-22:00",
+        "shop": "supermarket",
+        "website": "https://www.aldi.pl/informacje-dla-klienta/wyszukiwarka-sklepu.html/l/krakow/wroclawska-67/5829035",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7645515819,
+      "lat": 50.0937713,
+      "lon": 19.9465657,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "17",
+        "addr:postcode": "31-214",
+        "addr:street": "Józefa Mackiewicza",
+        "brand": "Auchan",
+        "brand:wikidata": "Q758603",
+        "brand:wikipedia": "en:Auchan",
+        "name": "Auchan",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 09:00-21:00",
+        "operator": "Auchan",
+        "shop": "supermarket",
+        "website": "https://www.auchan.pl/pl/sklepy/Auchan-Supermarket-Krakow-Mackiewicza",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7719542295,
+      "lat": 50.0425657,
+      "lon": 19.9732731,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "14",
+        "addr:postcode": "30-710",
+        "addr:street": "Krzywda",
+        "name": "Hurtownia Zabawek FORFUN",
+        "opening_hours": "Th-Su 06:00-14:00",
+        "payment:cash": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7966016185,
+      "lat": 50.0771174,
+      "lon": 20.0371625,
+      "tags": {
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "check_date:opening_hours": "2024-08-09",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Sa 06:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-os-urocze-1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8201633706,
+      "lat": 50.0419821,
+      "lon": 19.9925586,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "34a",
+        "addr:postcode": "30-716",
+        "addr:street": "Przewóz",
+        "brand": "Delikatesy Premium",
+        "brand:wikidata": "Q120147483",
+        "name": "Delikatesy Premium",
+        "opening_hours": "Mo-Sa 06:00-22:00, Sa 10:00-20:00",
+        "phone": "+48 12 296 79 79",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8269365822,
+      "lat": 50.0864818,
+      "lon": 20.0192204,
+      "tags": {
+        "brand": "Mix Markt",
+        "brand:wikidata": "Q327854",
+        "name": "Mix Markt",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 10:00-19:00",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8391214349,
+      "lat": 50.0726847,
+      "lon": 19.8959662,
+      "tags": {
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Sa 08:00-21:00",
+        "shop": "supermarket",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8537599475,
+      "lat": 50.0802988,
+      "lon": 19.9218871,
+      "tags": {
+        "brand": "Stokrotka",
+        "brand:wikidata": "Q9345945",
+        "brand:wikipedia": "pl:Stokrotka (sieć handlowa)",
+        "check_date:opening_hours": "2022-08-01",
+        "name": "Stokrotka",
+        "opening_hours": "Mo-Fr 06:00-23:45; Sa 06:00-23:45; Su 9:00-21:00",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8668099357,
+      "lat": 50.0825874,
+      "lon": 19.9087854,
+      "tags": {
+        "addr:street": "Walerego Eliasza Radzikowskiego",
+        "brand": "Aldi",
+        "brand:wikidata": "Q41171373",
+        "brand:wikipedia": "en:Aldi",
+        "name": "Aldi",
+        "opening_hours": "Mo-Sa 06:00-22:00",
+        "shop": "supermarket",
+        "website": "https://www.aldi.pl"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8772028114,
+      "lat": 50.0476328,
+      "lon": 19.9640705,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "4",
+        "addr:postcode": "30-702",
+        "addr:street": "Tadeusza Romanowicza",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "name": "Lewiatan",
+        "note": "Godziny otwarcia w niedziele handlowe: 10:00-18:00",
+        "opening_hours": "Mo-Fr 07:30-22:00; Sa 09:00-22:00",
+        "shop": "supermarket",
+        "website": "https://lewiatan.pl/znajdz-sklep/lewiatan-krakow-ul-romanowicza-4",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8916581255,
+      "lat": 50.0914172,
+      "lon": 19.9885952,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "1",
+        "addr:postcode": "31-636",
+        "addr:street": "Franciszka Kniaźnina",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 06:30-21:30; Su 07:00-21:00",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,3674"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8917821834,
+      "lat": 50.0943744,
+      "lon": 19.9810822,
+      "tags": {
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "name": "Lewiatan",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-reduta-26"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9249331000,
+      "lat": 50.0473627,
+      "lon": 19.9004636,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "20",
+        "addr:postcode": "30-206",
+        "addr:street": "Księcia Józefa",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Fr 05:30-23:30; Sa 05:30-22:00",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,3625"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10061939049,
+      "lat": 50.0955146,
+      "lon": 19.9898212,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "2",
+        "addr:postcode": "31-618",
+        "addr:street": "Księdza Józefa Kurzei",
+        "name": "Żabka",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "payment:app": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:telephone_cards": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10067213453,
+      "lat": 50.094279,
+      "lon": 19.9866904,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "53A",
+        "addr:postcode": "31-416",
+        "addr:street": "Marchołta",
+        "name": "Żabka",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:telephone_cards": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10081593773,
+      "lat": 50.0800795,
+      "lon": 19.8776326,
+      "tags": {
+        "name": "\"Ziarko\" Diagnostyka Nawożenia Agromarket A-Z",
+        "phone": "+48 635 47 86",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10577723309,
+      "lat": 50.0561214,
+      "lon": 19.9627049,
+      "tags": {
+        "addr:housenumber": "69B",
+        "addr:street": "Grzegórzecka",
+        "brand": "Carrefour Market",
+        "brand:wikidata": "Q2689639",
+        "check_date:opening_hours": "2025-03-12",
+        "name": "Carrefour Market",
+        "opening_hours": "Mo-Sa 06:00-22:00",
+        "payment:apple_pay": "yes",
+        "payment:blik": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10602009772,
+      "lat": 50.0128641,
+      "lon": 19.8869066,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "19",
+        "addr:postcode": "30-392",
+        "addr:street": "Karola Bunscha",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "fixme": "Add Sunday hours",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 05:30-23:30; Su 09:00-20:00",
+        "shop": "supermarket",
+        "website": "https://biedronka.pl",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10727357082,
+      "lat": 50.0740918,
+      "lon": 20.0198183,
+      "tags": {
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "check_date:opening_hours": "2026-01-15",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Fr 07:00-21:00; Sa 07:30-19:00",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-krakow-nowa-huta-kolorowe-33",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10743600886,
+      "lat": 50.037619,
+      "lon": 19.9411639,
+      "tags": {
+        "name": "Mix Markt",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11080494555,
+      "lat": 50.035661,
+      "lon": 19.934609,
+      "tags": {
+        "brand": "Stokrotka",
+        "brand:wikidata": "Q9345945",
+        "name": "Stokrotka",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11429694594,
+      "lat": 50.0710313,
+      "lon": 19.91409,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "44",
+        "addr:street": "Juliusza Lea",
+        "brand": "Aldi",
+        "brand:wikidata": "Q41171373",
+        "check_date": "2025-10-26",
+        "check_date:opening_hours": "2025-03-08",
+        "name": "Aldi",
+        "opening_hours": "Mo-Sa 06:00-22:00; Su 09:00-20:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket",
+        "start_date": "2023-12-15"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11472803702,
+      "lat": 50.0197156,
+      "lon": 20.0577102,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "50",
+        "addr:street": "Henryka i Karola Czeczów",
+        "brand": "Stokrotka",
+        "brand:wikidata": "Q9345945",
+        "name": "Stokrotka",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11472803703,
+      "lat": 50.0198257,
+      "lon": 20.0586322,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "48",
+        "addr:street": "Henryka i Karola Czeczów",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "name": "Biedronka",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,7471"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11481013839,
+      "lat": 50.0746042,
+      "lon": 19.9121769,
+      "tags": {
+        "name": "Forever Living Products",
+        "organic": "only",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11559664416,
+      "lat": 50.0369854,
+      "lon": 20.0508041,
+      "tags": {
+        "branch": "(budowa)",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "name": "Biedronka",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,7436"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11825048210,
+      "lat": 50.04353,
+      "lon": 19.8196704,
+      "tags": {
+        "addr:housenumber": "5",
+        "addr:street": "Astronautów",
+        "check_date": "2025-05-14",
+        "check_date:opening_hours": "2025-05-14",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 07:00-19:00; Su 10:00-15:00",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-ul-astronautow-5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11884172041,
+      "lat": 50.081942,
+      "lon": 20.0250364,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "1",
+        "addr:place": "Osiedle Przy Arce",
+        "addr:postcode": "31-845",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Fr 06:00-20:30, Sa 06:00-20:30, PH off",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-os-przy-arce-1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11965982296,
+      "lat": 50.0774535,
+      "lon": 20.0447633,
+      "tags": {
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "check_date:opening_hours": "2025-06-20",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Fr 06:30-21:30; Sa 07:00-21:00; Su 10:00-18:00",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-krakow-nowa-huta-sloneczne-8"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11990939089,
+      "lat": 50.0938279,
+      "lon": 19.9666603,
+      "tags": {
+        "branch": "Market Punkt",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Fr 07:00-21:30; Sa 07:00-20:00; Su 09:00-15:00",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-krakow-srodmiescie-powstancow-28",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12002771970,
+      "lat": 50.0570443,
+      "lon": 19.9773388,
+      "tags": {
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "name": "Lewiatan Pszczółka",
+        "opening_hours": "Mo-Sa 06:30-22:00",
+        "shop": "supermarket",
+        "website": "https://lewiatan.pl/znajdz-sklep/lewiatan-krakow-bajeczna-6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12078336706,
+      "lat": 50.0970385,
+      "lon": 19.9612544,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "5",
+        "addr:postcode": "31-234",
+        "addr:street": "Kuźnicy Kołłątajowskiej",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "name": "Biedronka",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,7555"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12248274628,
+      "lat": 50.0764181,
+      "lon": 19.9051219,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:floor": "0",
+        "addr:housenumber": "5",
+        "addr:postcode": "30-084",
+        "addr:street": "Bronowicka",
+        "check_date": "2025-06-23",
+        "internet_access": "no",
+        "level": "0",
+        "name": "Best Market - Kraków ul. Bronowicka 5 - Ukraiński Sklep Spożywczy",
+        "name:pl": "Ukraiński",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "payment:blik": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "phone": "+48690672931",
+        "shop": "supermarket",
+        "website": "https://best-market.pl/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12412444389,
+      "lat": 50.0118216,
+      "lon": 19.8839769,
+      "tags": {
+        "check_date": "2025-06-23",
+        "name": "Market Point",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12533555661,
+      "lat": 50.0906811,
+      "lon": 20.0171556,
+      "tags": {
+        "check_date:opening_hours": "2026-02-26",
+        "name": "Koral",
+        "opening_hours": "Mo-Fr 07:00-21:00; Sa 07:30-19:00; Su 10:00-18:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12610379847,
+      "lat": 50.079435,
+      "lon": 19.9219343,
+      "tags": {
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "name": "Biedronka",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12704434417,
+      "lat": 50.068847,
+      "lon": 19.9867299,
+      "tags": {
+        "brand": "FRAC",
+        "brand:wikidata": "Q18817260",
+        "name": "FRAC",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13171852785,
+      "lat": 50.0900092,
+      "lon": 19.9742885,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "4",
+        "addr:postcode": "31-422",
+        "addr:street": "Strzelców",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Fr 06:30-21:30, Sa 07:00-21:00, Su 09:00-18:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13314471523,
+      "lat": 50.0467607,
+      "lon": 19.9635981,
+      "tags": {
+        "brand": "Aldi",
+        "brand:wikidata": "Q41171373",
+        "name": "Aldi",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13522440809,
+      "lat": 50.0867343,
+      "lon": 20.0142313,
+      "tags": {
+        "brand": "Stokrotka",
+        "brand:wikidata": "Q9345945",
+        "name": "Stokrotka",
+        "opening_hours": "Mo-Fr 06:00-22:00; Sa 06:30-22:00; Su 09:00-20:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13691853014,
+      "lat": 50.0682508,
+      "lon": 19.8480232,
+      "tags": {
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "pl:Lidl",
+        "check_date:opening_hours": "2025-10-27",
+        "diet:halal": "no",
+        "diet:kosher": "no",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 06:00-22:30",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13770834439,
+      "lat": 50.0473086,
+      "lon": 19.9647866,
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "4b",
+        "addr:postcode": "30-702",
+        "addr:street": "ulica Tadeusza Romanowicza",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 06:00-22:00; PH closed",
+        "operator": "Jerónimo Martins Polska",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 29332681,
+      "center": {
+        "lat": 50.0584506,
+        "lon": 19.999332
+      },
+      "nodes": [
+        322695084, 1690275079, 10030637780, 10030637779, 10030637849,
+        10030637782, 322695086, 322695087, 10030637912, 10030637905,
+        10030637909, 10030637910, 10030637901, 10030637900, 10030637896,
+        322695084
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "52",
+        "addr:street": "Nowohucka",
+        "building": "yes",
+        "name": "Selgros",
+        "shop": "supermarket",
+        "source:addr": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 29744212,
+      "center": {
+        "lat": 50.0167687,
+        "lon": 20.0102902
+      },
+      "nodes": [
+        327683948, 327683949, 6468738869, 327683950, 327683951, 6468738868,
+        327683948
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "12a",
+        "addr:postcode": "30-836",
+        "addr:street": "Erazma Jerzmanowskiego",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 06:30-22:00; Su 09:00-20:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "roof:levels": "0",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,103"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37672770,
+      "center": {
+        "lat": 50.0150625,
+        "lon": 20.020451
+      },
+      "nodes": [
+        441673437, 620891283, 441673443, 441673441, 3478497526, 441673439,
+        441673437
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "12",
+        "addr:street": "Mieczysławy Ćwiklińskiej",
+        "brand": "Carrefour Market",
+        "brand:wikidata": "Q2689639",
+        "brand:wikipedia": "pl:Carrefour Market",
+        "building": "yes",
+        "name": "Carrefour Market",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 08:00-19:00",
+        "self_checkout": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37726844,
+      "center": {
+        "lat": 50.0184708,
+        "lon": 20.0062261
+      },
+      "nodes": [
+        442523763, 442523766, 5589365611, 442523765, 442523764, 442523763
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "3",
+        "addr:postcode": "30-833",
+        "addr:street": "Lilli Wenedy",
+        "brand": "Delikatesy Centrum",
+        "brand:wikidata": "Q11693824",
+        "brand:wikipedia": "pl:Delikatesy Centrum",
+        "building": "yes",
+        "building:colour": "white",
+        "name": "Delikatesy Centrum",
+        "opening_hours": "Mo-Sa 06:30-22:00",
+        "shop": "supermarket",
+        "website": "https://www.delikatesy.pl/sklepy/203247",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37728647,
+      "center": {
+        "lat": 50.0187331,
+        "lon": 19.9754269
+      },
+      "nodes": [
+        3481757395, 4538116264, 4538116263, 3481756824, 3481757146, 6641241130,
+        6641241131, 3481754278, 3481757395
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "2",
+        "addr:street": "Włoska",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Fr 07:00-21:30; Sa 07:00-21:00; Su 09:00-15:00",
+        "shop": "supermarket",
+        "source:addr": "EMUiA (emuia.gugik.gov.pl)",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-ul-wloska-2"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37728932,
+      "center": {
+        "lat": 50.0122215,
+        "lon": 20.0203683
+      },
+      "nodes": [
+        3478496469, 6050212540, 3478494947, 3478494948, 3478496470, 3478496469
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "18",
+        "addr:street": "Heleny",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 06:00-23:30; Su 08:00-22:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,1286"
+      }
+    },
+    {
+      "type": "way",
+      "id": 54534210,
+      "center": {
+        "lat": 50.0702818,
+        "lon": 20.0403717
+      },
+      "nodes": [
+        7872718040, 686915249, 686915274, 686915279, 7872718031, 10818928980,
+        7872718030, 10818976825, 7872718029, 10818928973, 10818928974,
+        10818928975, 7872718040
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "11",
+        "addr:place": "Osiedle Centrum E",
+        "addr:postcode": "31-934",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "building": "retail",
+        "building:levels": "1",
+        "building:material": "plaster",
+        "construction:shop": "supermarket",
+        "layer": "-1",
+        "location": "surface",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 06:00-22:30",
+        "roof:shape": "flat",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 60264663,
+      "center": {
+        "lat": 50.0844024,
+        "lon": 19.9275103
+      },
+      "nodes": [748879769, 748879771, 748879773, 748879775, 748879769],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "10",
+        "addr:street": "Józefa Wybickiego",
+        "brand": "Netto",
+        "brand:wikidata": "Q552652",
+        "brand:wikipedia": "da:Netto (supermarkedskæde)",
+        "building": "commercial",
+        "building:levels": "1",
+        "check_date": "2026-01-26",
+        "contact:website": "https://netto.pl/sklepy/krakow/ul-wybickiego-10/86f482d7ed8c4848820e7aea45322e98/",
+        "name": "Netto",
+        "opening_hours": "Mo-Sa 06:00-23:00",
+        "roof:levels": "1",
+        "roof:shape": "flat",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 65722287,
+      "center": {
+        "lat": 50.0865996,
+        "lon": 20.0267768
+      },
+      "nodes": [
+        800933855, 2978951128, 2978951126, 2978951124, 2978951125, 800933856,
+        800933857, 2978954435, 2978954437, 2978954439, 2978954440, 800933858,
+        2911712263, 800933855
+      ],
+      "tags": {
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "building": "supermarket",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 05:00-22:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,1053"
+      }
+    },
+    {
+      "type": "way",
+      "id": 65726655,
+      "center": {
+        "lat": 50.0852291,
+        "lon": 20.0204437
+      },
+      "nodes": [
+        6633150334, 6633150333, 6633150332, 6633150331, 6633150329, 6633150334
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "34",
+        "addr:place": "Osiedle Kazimierzowskie",
+        "addr:postcode": "31-844",
+        "brand": "Delikatesy Centrum",
+        "brand:wikidata": "Q11693824",
+        "brand:wikipedia": "pl:Delikatesy Centrum",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Delikatesy Centrum",
+        "opening_hours": "Mo-Sa 06:30-22:00",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "supermarket",
+        "website": "https://www.delikatesy.pl/sklepy/203253",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 79707698,
+      "center": {
+        "lat": 50.0694872,
+        "lon": 20.010447
+      },
+      "nodes": [
+        930201991, 930201978, 930202051, 930201984, 930202042, 930201993,
+        3096293691, 930202053, 930201991
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "78",
+        "addr:postcode": "31-564",
+        "addr:street": "Aleja Pokoju",
+        "building": "yes",
+        "name": "Market Point",
+        "shop": "supermarket",
+        "website": "https://market-point.pl/sklepy/sklep-krakow-aleja-pokoju-78/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 83075388,
+      "center": {
+        "lat": 50.0830418,
+        "lon": 20.0179323
+      },
+      "nodes": [
+        6632953351, 6632953350, 6632953349, 6632953352, 6632953348, 6632953347,
+        6632953346, 6632953345, 6632953344, 6632953343, 6632953342, 6632953341,
+        6632953351
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "22a",
+        "addr:place": "Osiedle Albertyńskie",
+        "addr:postcode": "31-853",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "building": "yes",
+        "name": "Lewiatan",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-os-albertynskie-22a"
+      }
+    },
+    {
+      "type": "way",
+      "id": 83523577,
+      "center": {
+        "lat": 50.0113024,
+        "lon": 19.963363
+      },
+      "nodes": [
+        972545720, 11217203533, 5591041926, 11217203536, 6602823605, 6602823604,
+        6602823603, 6602823606, 972545739, 6602823602, 6602823597, 972545737,
+        6602823596, 6602823590, 6602823591, 6602823592, 6602823593, 6602823594,
+        6602823595, 6602823589, 6602823586, 6602823587, 6602823583, 6602823584,
+        6602823585, 6602823588, 6602823579, 6602823580, 6602823578, 6602823581,
+        6602823577, 6602823582, 6602823576, 972545733, 6602823574, 6602823575,
+        6602823607, 972545720
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "7",
+        "addr:postcode": "30-612",
+        "addr:street": "Wincentego Witosa",
+        "brand": "Carrefour",
+        "brand:wikidata": "Q217599",
+        "brand:wikipedia": "pl:Groupe Carrefour",
+        "building": "retail",
+        "check_date:opening_hours": "2023-03-07",
+        "name": "Carrefour",
+        "opening_hours": "Mo-Sa 06:30-23:00",
+        "phone": "+48 12 639 48 00",
+        "self_checkout": "yes",
+        "shop": "supermarket",
+        "website": "https://www.carrefour.pl/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 89344833,
+      "center": {
+        "lat": 50.0129736,
+        "lon": 19.9502655
+      },
+      "nodes": [
+        3454086774, 3454087396, 3454087395, 9734081796, 3454087397, 3454086774
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "3a",
+        "addr:street": "Porucznika Halszki",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "building": "retail",
+        "diet:gluten_free": "yes",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-20:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,1289"
+      }
+    },
+    {
+      "type": "way",
+      "id": 93797207,
+      "center": {
+        "lat": 50.0084122,
+        "lon": 19.9535023
+      },
+      "nodes": [
+        6602825112, 6602825111, 6602825110, 8616879640, 6602825109, 6602825108,
+        6602825107, 13347892534, 6602825106, 12320360638, 6602825105,
+        12320360636, 6602825112
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "27A",
+        "addr:postcode": "30-611",
+        "addr:street": "Marii i Bolesława Wysłouchów",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Sa 06:30-21:30",
+        "roof:levels": "0",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-krakow-podgorze-ul-wyslouchow-27"
+      }
+    },
+    {
+      "type": "way",
+      "id": 101439245,
+      "center": {
+        "lat": 50.0961059,
+        "lon": 20.0513393
+      },
+      "nodes": [1171206718, 1171206944, 1171207040, 1171206783, 1171206718],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "31A",
+        "addr:place": "Osiedle Na Stoku",
+        "addr:postcode": "31-706",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "building": "yes",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Sa 06:30-21:30, Su 9:00-19:00",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-ul-wladyslawa-jagielly-31"
+      }
+    },
+    {
+      "type": "way",
+      "id": 101511594,
+      "center": {
+        "lat": 50.0848401,
+        "lon": 20.0404277
+      },
+      "nodes": [
+        1172126276, 1172126144, 10022471919, 10022471926, 10022471921,
+        10022471920, 13718384419, 1233263206, 1233263228, 1172125950, 1172126276
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "2b",
+        "addr:street": "Kocmyrzowska",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "building": "yes",
+        "name": "Lidl",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket",
+        "source:addr": "EMUiA (emuia.gugik.gov.pl)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 108513627,
+      "center": {
+        "lat": 50.034637,
+        "lon": 19.9681488
+      },
+      "nodes": [
+        6605289885, 6605289884, 6605289883, 9631321383, 6605289882, 6605289881,
+        8899456738, 6605289880, 6605289885
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "67",
+        "addr:street": "Wielicka",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "building": "supermarket",
+        "diet:halal": "no",
+        "diet:kosher": "no",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 06:00-22:30",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 122670226,
+      "center": {
+        "lat": 50.076513,
+        "lon": 20.0147046
+      },
+      "nodes": [
+        1370063836, 12827881842, 2256760260, 12827881835, 12827881836,
+        2256760267, 8423574563, 2256760251, 2256760256, 2256760228, 2256760226,
+        2256760211, 12827881838, 12827881839, 12827881840, 12827881837,
+        11710882130, 1370063841, 12827881833, 1370063831, 12827881834,
+        1370063836
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "25",
+        "addr:postcode": "31-851",
+        "addr:street": "Marii Dąbrowskiej",
+        "brand": "Aldi",
+        "brand:wikidata": "Q41171373",
+        "brand:wikipedia": "en:Aldi",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Aldi",
+        "opening_hours": "Mo-Sa 08:00-21:00, Su 09:00-18:00",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 150637634,
+      "center": {
+        "lat": 50.0270953,
+        "lon": 19.964799
+      },
+      "nodes": [
+        3481572365, 3481572675, 3481569389, 3481572674, 2384527009, 2384527014,
+        3481572490, 3481572491, 3481572365
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "43",
+        "addr:street": "Generała Henryka Kamieńskiego",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "building": "retail",
+        "building:levels": "2",
+        "name": "Biedronka",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "source:addr": "EMUiA (emuia.gugik.gov.pl)",
+        "website": "https://www.biedronka.pl/pl/shop,id,1080",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 151300981,
+      "center": {
+        "lat": 50.0210636,
+        "lon": 19.9781188
+      },
+      "nodes": [
+        6736385173, 6736385172, 6736385171, 6736385170, 11289155491, 6736385169,
+        6736385173
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "9",
+        "addr:postcode": "30-683",
+        "addr:street": "Nowosądecka",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "building": "commercial",
+        "building:levels": "2",
+        "name": "Biedronka",
+        "roof:levels": "0",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 154360218,
+      "center": {
+        "lat": 50.0564993,
+        "lon": 19.9748939
+      },
+      "nodes": [
+        3485274891, 3485280803, 3485279233, 3485280802, 3485280801, 3485279232,
+        3485279231, 3485274890, 3485279230, 3485280800, 3485279229, 3485280799,
+        3485274889, 3485280797, 3485274888, 3485280794, 3485280795, 3485280796,
+        3485280798, 3485280667, 3485280668, 3485279466, 3485279222, 3485279468,
+        3485279223, 3485279224, 3485279228, 3485279225, 3485279227, 3485279467,
+        3485279226, 3485279486, 3485279485, 3485279245, 3485279489, 3485280808,
+        3485279238, 3485280806, 3485280894, 3485280804, 3485279234, 3485274892,
+        3485274891
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "12",
+        "addr:postcode": "31-566",
+        "addr:street": "Ofiar Dąbia",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "building": "retail",
+        "name": "Biedronka",
+        "opening_hours": "Mo 05:00-24:00; Tu,We,Fr,Sa 00:15-24:00; Th 00:00-24:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,2292"
+      }
+    },
+    {
+      "type": "way",
+      "id": 154786250,
+      "center": {
+        "lat": 50.0344563,
+        "lon": 19.9406889
+      },
+      "nodes": [
+        3148277605, 1672640781, 1038452292, 1672641128, 1672641220, 1672641242,
+        3148277607, 3148277606, 1672640663, 3148277589, 3148277580, 3148277595,
+        3148277602, 3148277600, 3148277605
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "10",
+        "addr:postcode": "30-363",
+        "addr:street": "Rydlówka",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 05:00-23:30",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "roof:shape": "gabled",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/sklepy/shop,id,105"
+      }
+    },
+    {
+      "type": "way",
+      "id": 154944144,
+      "center": {
+        "lat": 50.0063225,
+        "lon": 20.0195868
+      },
+      "nodes": [
+        3477655945, 3477654729, 3477657113, 3477655944, 3477657200, 3477654750,
+        3477655945
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "97",
+        "addr:postcode": "30-864",
+        "addr:street": "Mała Góra",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "building": "retail",
+        "building:levels": "1",
+        "height": "5",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 07:00-21:00,Su 08:00-20:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "payment:coins": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "roof:shape": "gabled",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,1288",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 155417711,
+      "center": {
+        "lat": 50.0307209,
+        "lon": 19.91849
+      },
+      "nodes": [
+        3015042625, 3763426252, 5167147747, 5167147744, 3016772131, 3015042624,
+        3015042626, 3015042625
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "42",
+        "addr:postcode": "30-363",
+        "addr:street": "Kobierzyńska",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "building": "commercial",
+        "height": "5",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Sa 06:00-22:00",
+        "roof:material": "tar_paper",
+        "roof:shape": "flat",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 155417757,
+      "center": {
+        "lat": 50.025,
+        "lon": 19.9128798
+      },
+      "nodes": [
+        6600448857, 6600448856, 6600448855, 6600448854, 3022124116, 6600448844,
+        6600448845, 6600448852, 6600448851, 6600448850, 6600448849, 6600448848,
+        6600448857
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "106",
+        "addr:postcode": "30-382",
+        "addr:street": "Kobierzyńska",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "building": "supermarket",
+        "height": "5",
+        "name": "Lidl",
+        "operator": "Lidl",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 161635878,
+      "center": {
+        "lat": 50.00643,
+        "lon": 19.9046709
+      },
+      "nodes": [
+        3443219697, 3443213131, 3443213123, 3443215491, 3443213130, 12994906981,
+        12994906980, 12994906979, 12994906971, 12994906978, 12994906977,
+        12994906982, 6603033261, 3443212175, 12994906976, 12994906975,
+        12994906974, 12994906973, 3443219697
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "1",
+        "addr:postcode": "30-438",
+        "addr:street": "Borkowska",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "pl:Lidl",
+        "building": "supermarket",
+        "building:levels": "1",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 06:00-22:00; PH,Su off",
+        "roof:shape": "skillion",
+        "shop": "supermarket",
+        "source:building": "BDOT",
+        "source:geometry": "EGiB",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 161666530,
+      "center": {
+        "lat": 50.0066938,
+        "lon": 19.9019915
+      },
+      "nodes": [
+        3050895254, 3050895386, 3050893986, 3050893996, 3050895391, 3050893997,
+        3050893998, 3050895252, 3050895254
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "57",
+        "addr:postcode": "30-390",
+        "addr:street": "Zawiła",
+        "brand": "Aldi",
+        "brand:wikidata": "Q41171373",
+        "brand:wikipedia": "en:Aldi",
+        "building": "retail",
+        "check_date": "2025-10-25",
+        "email": "obsluga.klienta@aldi.pl",
+        "name": "Aldi",
+        "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-18:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:google_pay": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:nfc": "yes",
+        "payment:visa": "yes",
+        "phone": "+48 800 118 118",
+        "shop": "supermarket",
+        "source": "https://www.aldi.pl/informacje-dla-klienta/wyszukiwarka-sklepu.html/l/krakow/zawila-57/3628966",
+        "website": "https://www.aldi.pl/informacje-dla-klienta/wyszukiwarka-sklepu.html/l/krakow/zawila-57/3628966"
+      }
+    },
+    {
+      "type": "way",
+      "id": 162320884,
+      "center": {
+        "lat": 50.0902785,
+        "lon": 20.0062284
+      },
+      "nodes": [
+        1742216646, 1742216641, 1742216639, 1742216642, 11256918999, 1742216646
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "16a",
+        "addr:place": "Osiedle Kombatantów",
+        "addr:postcode": "31-630",
+        "brand": "Kaufland",
+        "brand:wikidata": "Q685967",
+        "brand:wikipedia": "en:Kaufland",
+        "building": "retail",
+        "building:levels": "1",
+        "building:material": "metal",
+        "name": "Kaufland",
+        "opening_hours": "Mo-Sa 06:00-23:00",
+        "quiet_hours": "Tu 9:00-12:00",
+        "quiet_hours:signed": "yes",
+        "roof:levels": "0",
+        "roof:shape": "skillion",
+        "shop": "supermarket",
+        "website": "https://www.kaufland.pl/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 162320885,
+      "center": {
+        "lat": 50.0886445,
+        "lon": 20.0068225
+      },
+      "nodes": [
+        1742216613, 13227501068, 1742216624, 13227501063, 13227501064,
+        1742216625, 1742216622, 1742216616, 13230530980, 1742216613
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "21",
+        "addr:place": "Osiedle Józefa Strusia",
+        "addr:postcode": "31-810",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "building": "retail",
+        "building:levels": "1",
+        "building:material": "metal",
+        "check_date": "2025-11-19",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 06:00-22:30; PH off",
+        "roof:levels": "0",
+        "roof:shape": "skillion",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 162503217,
+      "center": {
+        "lat": 50.0842167,
+        "lon": 19.9246143
+      },
+      "nodes": [
+        8314587906, 8314587905, 8314587904, 8314587903, 8314587902, 8314587901,
+        8314587900, 8314587899, 8314587898, 8314587897, 8314587896, 8314587895,
+        8314587906
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "18",
+        "addr:postcode": "31-261",
+        "addr:street": "Józefa Wybickiego",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "building": "retail",
+        "building:levels": "1",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "opening_hours": "Mo-We 06:00-22:00; Th-Sa 06:00-23:30",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "payment:blik": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:diners_club": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:sodexo": "yes",
+        "payment:v_pay": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "phone": "+48 22 205 33 00",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl"
+      }
+    },
+    {
+      "type": "way",
+      "id": 164035425,
+      "center": {
+        "lat": 50.0936847,
+        "lon": 19.920978
+      },
+      "nodes": [
+        1756959471, 1756959355, 9415833094, 9415833095, 9415833097, 9415833096,
+        1756959386, 1756959425, 1756959419, 1756959488, 1756959472, 1756959481,
+        9422542574, 1756959471
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "5B",
+        "addr:postcode": "31-223",
+        "addr:street": "Henryka Pachońskiego",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date": "2026-01-25",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 06:00-22:30",
+        "operator": "Lidl sp. z o.o. sp. k.",
+        "roof:shape": "flat",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 173306608,
+      "center": {
+        "lat": 50.0984036,
+        "lon": 19.9983622
+      },
+      "nodes": [
+        3472272991, 3472272986, 9356162540, 3472280571, 3472280579, 3472272991
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "52",
+        "addr:place": "Osiedle Złotego Wieku",
+        "addr:postcode": "31-618",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "building": "retail",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-20:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,2387"
+      }
+    },
+    {
+      "type": "way",
+      "id": 191197135,
+      "center": {
+        "lat": 50.0228676,
+        "lon": 19.9095924
+      },
+      "nodes": [3012260205, 3012262023, 3012262012, 3012261869, 3012260205],
+      "tags": {
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Lewiatan",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 191316467,
+      "center": {
+        "lat": 50.0924958,
+        "lon": 19.952834
+      },
+      "nodes": [
+        6707548908, 6707548907, 6707548906, 11254814918, 6707548905, 6707548904,
+        6707548903, 6707548902, 10620580453, 10620580452, 6707548895,
+        6707548896, 6707548901, 6707548900, 6707548899, 6707548898, 6707548897,
+        6707548908
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "17",
+        "addr:postcode": "31-231",
+        "addr:street": "Siewna",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "building": "yes",
+        "name": "Lidl",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 191316589,
+      "center": {
+        "lat": 50.0891572,
+        "lon": 19.9266029
+      },
+      "nodes": [
+        8314546641, 8314546640, 8314546639, 8314546638, 8314546637, 8314546636,
+        8314546635, 8314546634, 8314546633, 8314546632, 8314546631, 8314546630,
+        8314546629, 8314546628, 8314546641
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "22",
+        "addr:postcode": "31-272",
+        "addr:street": "Krowoderskich Zuchów",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Sa 06:00-22:00; Su 08:00-22:00",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-ul-krowoderskich-zuchow-22"
+      }
+    },
+    {
+      "type": "way",
+      "id": 191316591,
+      "center": {
+        "lat": 50.0182582,
+        "lon": 19.9231317
+      },
+      "nodes": [
+        3056466439, 3056466433, 3056465330, 9593976386, 3056466436, 3056466440,
+        3056466439
+      ],
+      "tags": {
+        "building": "retail",
+        "disused:shop": "supermarket",
+        "name": "Frac",
+        "opening_hours": "Mo-Sa 06:00-22:00; Su 08:00-22:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 215156319,
+      "center": {
+        "lat": 50.068077,
+        "lon": 19.976736
+      },
+      "nodes": [
+        13178517727, 13178517726, 13178517730, 13178517725, 13178517724,
+        13178517723, 13178517722, 13178517721, 13178517720, 13178517719,
+        13178517718, 13178517717, 13178517716, 13178517715, 13178517714,
+        13178517713, 13178517712, 13178517711, 13178517710, 13178517709,
+        13178517708, 13178517707, 13178517706, 13178517705, 13178517704,
+        13178517703, 13178517702, 13178517701, 13178374400, 13178374399,
+        13178374398, 13178374397, 13178374396, 13178374395, 13178374394,
+        13178374393, 13178374392, 13178374391, 13178374390, 13178374389,
+        13178374388, 13178374387, 13178374386, 13178374385, 13178374384,
+        13178517729, 13178374383, 13178374382, 13178374381, 2245739764,
+        13178374380, 13178374379, 13178374378, 13178374377, 2245739815,
+        13178374376, 13178374375, 13178374374, 13178374373, 13178374372,
+        13178374371, 13178374370, 13178374369, 13178374368, 13178374367,
+        13178374366, 13178374365, 13178374364, 13178374363, 13178374362,
+        3873890157, 2245739823, 13178374361, 13178374360, 13178374359,
+        13178374358, 13178374357, 13178374356, 13178517728, 13178374355,
+        13178374354, 13178374353, 13178374352, 13178374351, 13178374350,
+        13178374349, 13178374348, 13178374347, 13178374346, 13178374345,
+        13178374344, 13178374343, 13178374342, 13178374341, 13178374340,
+        13178374339, 13178374338, 13178374337, 13178517727
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "116",
+        "addr:postcode": "31-445",
+        "addr:street": "Mogilska",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Lidl",
+        "name:ru": "Лидл",
+        "name:uk": "Лідл",
+        "note": "Narysować dokładniej, gdy będzie aktualny podkład ortofoto",
+        "opening_hours": "Mo-Sa 08:00-21:00, Su 09:00-19:00",
+        "roof:levels": "0",
+        "shop": "supermarket",
+        "source:building": "BDOT",
+        "source:geometry": "EGiB",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 225618128,
+      "center": {
+        "lat": 50.0169959,
+        "lon": 20.014171
+      },
+      "nodes": [
+        2343769574, 2343769578, 2359396108, 6392044962, 6468738790, 6468738791,
+        6468738792, 6468738793, 5345791887, 5345791888, 5345791889, 5345791890,
+        6468738789, 2343769572, 2343769574
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housename": "Lidl",
+        "addr:housenumber": "1",
+        "addr:postcode": "30-863",
+        "addr:street": "Mieczysławy Ćwiklińskiej",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "pl:Lidl",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 06:00-22:30",
+        "payment:apple_pay": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:google_pay": "yes",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "self_checkout": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 229962011,
+      "center": {
+        "lat": 50.073491,
+        "lon": 20.0023895
+      },
+      "nodes": [
+        13431183258, 13431183257, 13431183256, 13431183255, 12218304426,
+        2385017131, 2385017127, 2914654708, 2914654705, 2914654704, 2385017125,
+        2385017124, 2385017123, 2384575107, 2385017122, 13431183259,
+        13431183254, 13431183258
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:city:simc": "0950463",
+        "addr:housenumber": "1",
+        "addr:postcode": "31-580",
+        "addr:street": "Stanisławy Wysockiej",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "building": "supermarket",
+        "building:levels": "1",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 06:00-22:30; Su 08:00-21:00",
+        "shop": "supermarket",
+        "source:addr": "gugik.gov.pl",
+        "source:building": "BDOT",
+        "source:geometry": "EGiB",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 231320524,
+      "center": {
+        "lat": 50.0982843,
+        "lon": 19.8890283
+      },
+      "nodes": [
+        2397143169, 2397143762, 2397143754, 2397143742, 2397143748, 2397143749,
+        2397143732, 2397143137, 2397143146, 2397143159, 2397143169
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "255",
+        "addr:street": "Józefa Chełmońskiego",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "building": "yes",
+        "name": "Biedronka",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,3533"
+      }
+    },
+    {
+      "type": "way",
+      "id": 231347055,
+      "center": {
+        "lat": 50.1000664,
+        "lon": 19.8903322
+      },
+      "nodes": [
+        6637756808, 6637756807, 6637756806, 6637756805, 6637756804, 6637756803,
+        6637756802, 6637756801, 6637756800, 6637756799, 6637756786, 6637756798,
+        6637756797, 6637756796, 6637756795, 6637756787, 6637756794, 6637756793,
+        6637756788, 6637756783, 6637756792, 6637756791, 6637756790, 6637756789,
+        6637756808
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "60a",
+        "addr:street": "Jasnogórska",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "building": "yes",
+        "name": "Biedronka",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 231815485,
+      "center": {
+        "lat": 50.0715003,
+        "lon": 19.9052448
+      },
+      "nodes": [
+        2401465351, 2401465421, 13669756606, 2401465684, 2401465659, 2401465638,
+        13669756790, 2401465613, 2401465569, 13669756602, 13669756797,
+        13669756800, 13669756603, 13669756604, 2401465454, 13669756605,
+        2401465351
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "49",
+        "addr:postcode": "30-067",
+        "addr:street": "Piastowska",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date:opening_hours": "2024-11-25",
+        "name": "Biedronka",
+        "opening_hours": "Mo 06:00-23:30; Tu-Sa 05:00-23:30; Su 08:00-22:00; Su off",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,40"
+      }
+    },
+    {
+      "type": "way",
+      "id": 232084525,
+      "center": {
+        "lat": 50.0438815,
+        "lon": 19.8274465
+      },
+      "nodes": [
+        2404264579, 2404264679, 13771385151, 2404264708, 2404264592, 2404264541,
+        2404264539, 2404264556, 2404264579
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housename": "Sklep Handlowy Jubilat",
+        "addr:postcode": "30-244",
+        "addr:street": "Orla",
+        "addr:unit": "62",
+        "building": "retail",
+        "name": "Jubilat",
+        "shop": "supermarket",
+        "source:building": "EGiB",
+        "website": "https://jubilat.com.pl/pl/79/4/6/JUBILAT-spozywczoprzemyslowy"
+      }
+    },
+    {
+      "type": "way",
+      "id": 233072944,
+      "center": {
+        "lat": 50.0942937,
+        "lon": 19.9989222
+      },
+      "nodes": [
+        3472127525, 3472127443, 3472127705, 3472127132, 3472127111, 3472127445,
+        3472127800, 3472127525
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "87",
+        "addr:postcode": "31-612",
+        "addr:street": "Miśnieńska",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "building": "yes",
+        "disused:shop": "supermarket",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 05:00-23:30; Su 09:00-20:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 233355032,
+      "center": {
+        "lat": 50.0753546,
+        "lon": 19.9112133
+      },
+      "nodes": [
+        2417500146, 13281346310, 13281346377, 13281346309, 13281346308,
+        2417501084, 2417501048, 2417500860, 13281346446, 13281346450,
+        2417500847, 2417500732, 2417500744, 2417500658, 2417500500, 2417500883,
+        13281346307, 2417500831, 13189203702, 13189203703, 2417500386,
+        2417500360, 2417499967, 2417500146
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "117",
+        "addr:postcode": "30-074",
+        "addr:street": "Kazimierza Wielkiego",
+        "building": "supermarket",
+        "shop": "supermarket",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 233355705,
+      "center": {
+        "lat": 50.0738982,
+        "lon": 19.9289407
+      },
+      "nodes": [
+        2417497610, 2417497662, 2417497693, 2417497665, 2417497676, 2417497734,
+        2417497778, 2417497719, 13725937410, 13725937409, 2417497635,
+        2417497648, 2417497556, 2417497475, 2417497449, 2417497460, 2417497422,
+        13725937408, 2417497441, 2417497463, 2417497473, 2417497538, 2417497558,
+        2417497545, 2417497563, 2417497578, 2417497586, 2417497572, 2417497585,
+        2417497591, 2417497610
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "16",
+        "addr:postcode": "30-036",
+        "addr:street": "Mazowiecka",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Fr 07:00-21:30; Sa 07:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-ul-mazowiecka-16",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 233371382,
+      "center": {
+        "lat": 50.029838,
+        "lon": 19.9113496
+      },
+      "nodes": [
+        2417699064, 9937568739, 2795276887, 2795276889, 1882094440, 3015127261,
+        2417699173, 2417699176, 2417699168, 2417699163, 2417699165, 2417699137,
+        2417699138, 11212604609, 11212604606, 2417698872, 2417698883,
+        2417698945, 2417698922, 2417698936, 2417699027, 3016658613, 3016658614,
+        2417699064
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "1",
+        "addr:postcode": "30-376",
+        "addr:street": "Norymberska",
+        "brand": "Kaufland",
+        "brand:wikidata": "Q685967",
+        "building": "supermarket",
+        "name": "Kaufland",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 08:00-22:00; Jul-Aug: Mo-Sa 06:00-23:00; PH off",
+        "operator": "Kaufland Polska Markety Sp. z o.o. Sp. k.",
+        "phone": "+48 12 264 22 50",
+        "shop": "supermarket",
+        "website": "https://www.kaufland.pl/Home/index.jsp?PageId=3&FilialID=7761",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 246607344,
+      "center": {
+        "lat": 50.0132468,
+        "lon": 19.9677309
+      },
+      "nodes": [
+        6602960891, 11135225962, 11135225961, 6602960890, 6602960889,
+        6602960888, 6602960887, 6602960886, 6602960891
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housename": "Biedronka",
+        "addr:housenumber": "43F",
+        "addr:street": "Łużycka",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 06:30-22:00; Su 08:00-21:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "roof:levels": "1",
+        "roof:shape": "gabled",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 253126430,
+      "center": {
+        "lat": 50.0818154,
+        "lon": 19.8631239
+      },
+      "nodes": [
+        6629438655, 6629438654, 6629438653, 6629438652, 6629438651, 6629438650,
+        6629438649, 6629438648, 6629438655
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "157",
+        "addr:postcode": "30-149",
+        "addr:street": "Balicka",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "building": "supermarket",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 05:00-23:30; Su 09:00-20:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,2360"
+      }
+    },
+    {
+      "type": "way",
+      "id": 256088959,
+      "center": {
+        "lat": 50.0923486,
+        "lon": 19.9611845
+      },
+      "nodes": [
+        3469198523, 3469198526, 3469198511, 3469197289, 3469198516, 3469198517,
+        3469198513, 2956235464, 2956235465, 2617848842, 2617848852, 3469198523
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "3",
+        "addr:postcode": "31-422",
+        "addr:street": "Powstańców",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "building": "retail",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 06:30-22:00; Su 07:00-21:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,117"
+      }
+    },
+    {
+      "type": "way",
+      "id": 263348074,
+      "center": {
+        "lat": 50.097891,
+        "lon": 19.9735165
+      },
+      "nodes": [
+        5659512289, 2627200165, 13108616470, 5659512288, 2627200168, 5691979583,
+        5659512289
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "26",
+        "addr:postcode": "31-422",
+        "addr:street": "Strzelców",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Lewiatan Zachęta",
+        "opening_hours": "Mo-Fr 06:30-21:00; Sa 07:30-20:00; Su 10:00-18:00",
+        "operator": "Jonasz Sp. z o.o.",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "shop": "supermarket",
+        "source:building": "BDOT",
+        "source:geometry": "EGiB",
+        "start_date": "2015-05-21",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-krakow-srodmiescie-ul-strzelcow-26"
+      }
+    },
+    {
+      "type": "way",
+      "id": 266906695,
+      "center": {
+        "lat": 50.0147104,
+        "lon": 20.0225293
+      },
+      "nodes": [
+        2724036386, 4172893633, 2724036381, 2724036374, 2724036383, 2724036369,
+        2724036377, 2724036379, 2724036385, 2724036386
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "14",
+        "addr:street": "Mieczysławy Ćwiklińskiej",
+        "brand": "Kaufland",
+        "brand:wikidata": "Q685967",
+        "brand:wikipedia": "pl:Kaufland",
+        "building": "yes",
+        "name": "Kaufland",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 08:00-22:00",
+        "self_checkout": "yes",
+        "shop": "supermarket",
+        "source": "Bing",
+        "source:addr": "EMUiA (emuia.gugik.gov.pl)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 267082641,
+      "center": {
+        "lat": 50.0179591,
+        "lon": 20.0344998
+      },
+      "nodes": [
+        6735332242, 6735332241, 6735332225, 6735332240, 6735332239, 6735332237,
+        6735332233, 6735332234, 6735332242
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "276",
+        "addr:postcode": "30-836",
+        "addr:street": "Bieżanowska",
+        "building": "yes",
+        "check_date": "2024-02-16",
+        "name": "Market Point",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 287677795,
+      "center": {
+        "lat": 50.096769,
+        "lon": 19.964647
+      },
+      "nodes": [
+        13522471818, 13522471817, 13522471816, 13522471815, 13522471814,
+        13522471813, 2912473595, 13522471812, 13522471811, 13522471810,
+        13522471809, 13522471808, 13522471818
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "13",
+        "addr:postcode": "30-962",
+        "addr:street": "Księdza Józefa Meiera",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "building": "supermarket",
+        "building:levels": "1",
+        "name": "Biedronka",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "source:building": "BDOT",
+        "source:geometry": "EGiB",
+        "website": "https://www.biedronka.pl/pl/shop,id,2226"
+      }
+    },
+    {
+      "type": "way",
+      "id": 287781017,
+      "center": {
+        "lat": 50.087737,
+        "lon": 20.006517
+      },
+      "nodes": [
+        2515250349, 2913450041, 2913450038, 2913450040, 4503229891, 4503229892,
+        2515250349
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:city:simc": "0950463",
+        "addr:housenumber": "23",
+        "addr:place": "Osiedle Józefa Strusia",
+        "addr:postcode": "31-810",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 05:00-23:30",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "roof:levels": "0",
+        "roof:shape": "gabled",
+        "shop": "supermarket",
+        "source:addr": "gugik.gov.pl",
+        "source:building": "BDOT",
+        "source:geometry": "EGiB",
+        "website": "https://www.biedronka.pl/pl/shop,id,1109",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 287870861,
+      "center": {
+        "lat": 50.0396942,
+        "lon": 19.9913429
+      },
+      "nodes": [
+        6605685723, 6605685722, 6605685721, 6605685720, 6605685719, 9667711349,
+        9667711352, 6605685717, 9667711351, 9667711350, 6605685723
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "28",
+        "addr:postcode": "30-721",
+        "addr:street": "Lipska",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Biedronka",
+        "opening_hours": "Mo 05:00-24:00; Tu-Fr 00:00-24:00; Sa 00:00-23:30; Su,PH off",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,2176",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 287870862,
+      "center": {
+        "lat": 50.0394114,
+        "lon": 19.9959567
+      },
+      "nodes": [
+        6605684520, 6605684519, 6605684518, 6605684517, 6605684516, 6605684515,
+        6605684514, 6605684513, 6605684512, 6605684511, 6605684510, 6605684509,
+        6605684508, 6605684507, 6605684506, 6605684505, 6605684504, 6605684503,
+        6605684520
+      ],
+      "tags": {
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "building": "yes",
+        "name": "Lidl",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 293770087,
+      "center": {
+        "lat": 50.019016,
+        "lon": 19.9272688
+      },
+      "nodes": [
+        2973547955, 10739641501, 10739641502, 10739647405, 2973547956,
+        2973547727, 2973543521, 2973547938, 2973547936, 2973547955
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "4",
+        "addr:street": "Juliana Ursyna Niemcewicza",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 05:00-23:30",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "roof:levels": "0",
+        "shop": "supermarket",
+        "source:addr": "EMUiA (emuia.gugik.gov.pl)",
+        "website": "https://www.biedronka.pl/pl/shop,id,1038",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 298653537,
+      "center": {
+        "lat": 50.0943723,
+        "lon": 20.0563212
+      },
+      "nodes": [6636680092, 6636680091, 6636680090, 6636680089, 6636680092],
+      "tags": {
+        "brand": "Delikatesy Centrum",
+        "brand:wikidata": "Q11693824",
+        "brand:wikipedia": "pl:Delikatesy Centrum",
+        "building": "yes",
+        "name": "Delikatesy Centrum",
+        "opening_hours": "Mo-Sa 06:30-21:00",
+        "shop": "supermarket",
+        "website": "https://www.delikatesy.pl/sklepy/203248"
+      }
+    },
+    {
+      "type": "way",
+      "id": 300213770,
+      "center": {
+        "lat": 50.0875231,
+        "lon": 20.0218163
+      },
+      "nodes": [
+        3043099711, 3043099710, 3043099709, 3674882910, 10044242523, 3043099711
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "30",
+        "addr:place": "Osiedle Kazimierzowskie",
+        "addr:postcode": "31-844",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date:opening_hours": "2026-03-19",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Fr 06:30-21:30; Sa 07:00-20:00",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-krakow-nowa-huta-os-kazimierzowskie-30"
+      }
+    },
+    {
+      "type": "way",
+      "id": 301173443,
+      "center": {
+        "lat": 50.0060233,
+        "lon": 19.8972031
+      },
+      "nodes": [2498733979, 3052709223, 3052726455, 3052726457, 2498733979],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "1A",
+        "addr:postcode": "30-389",
+        "addr:street": "Komuny Paryskiej",
+        "brand": "Stokrotka",
+        "brand:wikidata": "Q9345945",
+        "building": "supermarket",
+        "name": "Stokrotka",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "shop": "supermarket",
+        "website": "https://stokrotka.pl/nasze-sklepy/krakow-ul-komuny-paryskiej-1-4761.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 301663368,
+      "center": {
+        "lat": 50.0209303,
+        "lon": 19.9023875
+      },
+      "nodes": [
+        3057515562, 3057515560, 3057515543, 3009553648, 3009553735, 2104909703,
+        3057515567, 3057515562
+      ],
+      "tags": {
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "buildingpart": "room",
+        "indoor": "yes",
+        "name": "Lewiatan",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-ul-raciborska-17"
+      }
+    },
+    {
+      "type": "way",
+      "id": 307440867,
+      "center": {
+        "lat": 50.024051,
+        "lon": 19.906396
+      },
+      "nodes": [
+        3125843789, 8143278719, 3125848674, 3125843788, 3125848746, 3875861682,
+        3875861681, 3125843789
+      ],
+      "tags": {
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "building": "yes",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 05:00-23:30; Su 08:00-22:00; PH off",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,2659"
+      }
+    },
+    {
+      "type": "way",
+      "id": 325871039,
+      "center": {
+        "lat": 50.0188881,
+        "lon": 19.9443373
+      },
+      "nodes": [
+        3455909894, 3455896750, 3455899780, 3455908769, 3455908770, 3455909893,
+        12476284695, 3455909894
+      ],
+      "tags": {
+        "addr:housenumber": "14",
+        "addr:postcode": "30-609",
+        "addr:street": "Tadeusza Połomskiego",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "building": "retail",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-20:00",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,1178,title,tadeusza-polomskiego-14-krakow"
+      }
+    },
+    {
+      "type": "way",
+      "id": 328491162,
+      "center": {
+        "lat": 50.0125285,
+        "lon": 20.0843515
+      },
+      "nodes": [
+        7629243555, 3353225076, 3353225064, 3353224962, 12488461579, 7629243556,
+        7629243555
+      ],
+      "tags": {
+        "addr:city:simc": "0340820",
+        "addr:housenumber": "468",
+        "addr:place": "Kokotów",
+        "addr:postcode": "32-002",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "building": "retail",
+        "building:levels": "2",
+        "name": "Biedronka",
+        "shop": "supermarket",
+        "source:addr": "wieliczka.e-mapa.net",
+        "source:building": "BDOT",
+        "source:geometry": "EGiB"
+      }
+    },
+    {
+      "type": "way",
+      "id": 331931701,
+      "center": {
+        "lat": 50.0957043,
+        "lon": 20.0879897
+      },
+      "nodes": [3390328217, 3390328218, 2766058301, 3390328216, 3390328217],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "99",
+        "addr:street": "Lubocka",
+        "brand": "Społem",
+        "brand:wikidata": "Q11826043",
+        "building": "yes",
+        "name": "Społem",
+        "shop": "supermarket",
+        "source:addr": "EMUiA (emuia.gugik.gov.pl)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 340125386,
+      "center": {
+        "lat": 50.0836199,
+        "lon": 19.8482474
+      },
+      "nodes": [
+        6757449808, 6757449807, 6757449806, 6757449805, 6757449804, 6757449803,
+        6757449802, 6757449801, 6757449808
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "1",
+        "addr:street": "Profesora Stefana Myczkowskiego",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "building": "yes",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Fr 06:30-21:00; Sa 07:00-21:00; Su 08:00-16:00",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-myczkowskiego-1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 342626207,
+      "center": {
+        "lat": 50.0652662,
+        "lon": 20.0161814
+      },
+      "nodes": [
+        3495904767, 10880303808, 3495904763, 4483262519, 4483191053, 3495904761,
+        3495904764, 3495904765, 4355457051, 3495904766, 3495904767
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:city:simc": "Q294138",
+        "addr:housenumber": "23D",
+        "addr:postcode": "31-589",
+        "addr:street": "Sołtysowska",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "building": "retail",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 05:30-23:30",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,2673"
+      }
+    },
+    {
+      "type": "way",
+      "id": 344665604,
+      "center": {
+        "lat": 50.0168424,
+        "lon": 19.9877163
+      },
+      "nodes": [
+        3514137643, 5981805031, 5981805047, 3514137656, 3514137653, 3514137641,
+        4816316489, 4816316488, 4876683603, 4876683604, 3514137643
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "13",
+        "addr:postcode": "30-669",
+        "addr:street": "Polonijna",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 05:00-23:30",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "source": "survey",
+        "website": "https://www.biedronka.pl/pl/shop,id,2690"
+      }
+    },
+    {
+      "type": "way",
+      "id": 370862171,
+      "center": {
+        "lat": 50.0140571,
+        "lon": 19.9637594
+      },
+      "nodes": [
+        8578929714, 8578929713, 8578929712, 8578929711, 8578929710, 8578929709,
+        8578929708, 8578929707, 8578929706, 8578929705, 8578929704, 8578929703,
+        8578929714
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:street": "Nowosądecka",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "pl:Lidl",
+        "building": "retail",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 06:00-22:30",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "self_checkout": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 392856213,
+      "center": {
+        "lat": 50.0823094,
+        "lon": 19.9455915
+      },
+      "nodes": [
+        3960502428, 3960502429, 3960502430, 8923295584, 8923295583, 3960502427,
+        8923295582, 3960502428
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "93",
+        "addr:postcode": "31-215",
+        "addr:street": "Żabiniec",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "building": "yes",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "payment:blik": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:diners_club": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:sodexo": "yes",
+        "payment:v_pay": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "phone": "+48 22 205 33 00",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,2455"
+      }
+    },
+    {
+      "type": "way",
+      "id": 393281429,
+      "center": {
+        "lat": 50.0235973,
+        "lon": 20.0424796
+      },
+      "nodes": [
+        3964950194, 11639261984, 11639261985, 11639261986, 3964950193,
+        3964950197, 3964950198, 3964950196, 3964950195, 3964950194
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "12b",
+        "addr:street": "Półłanki",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "building": "yes",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "payment:blik": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:diners_club": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:sodexo": "yes",
+        "payment:v_pay": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "phone": "+48 22 205 33 00",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl"
+      }
+    },
+    {
+      "type": "way",
+      "id": 416220167,
+      "center": {
+        "lat": 50.0050681,
+        "lon": 19.9449007
+      },
+      "nodes": [
+        6602658950, 6602658949, 6602658944, 6602658943, 6602658942, 6602658941,
+        6602670889, 6602670888, 6602658940, 6602658939, 6602658938, 6602658931,
+        11251535277, 6602658930, 6602658929, 6602658928, 6602658927, 6602658926,
+        6602658925, 6602658905, 6602658904, 6602670909, 6602670900, 6602670899,
+        6602670898, 4170395778, 6602670897, 6602670896, 6602670895, 6602670894,
+        6602670893, 6602670892, 6602658950
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "2",
+        "addr:postcode": "30-611",
+        "addr:street": "Cechowa",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "building": "retail",
+        "building:levels": "1",
+        "level": "0",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 06:00-22:30",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "ref": "1497",
+        "shop": "supermarket",
+        "website": "https://www.lidl.pl/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 435312365,
+      "center": {
+        "lat": 50.0969709,
+        "lon": 19.9127177
+      },
+      "nodes": [
+        6637754215, 6637754208, 6637754207, 6637754206, 12288731307, 6637754223,
+        6637754222, 6637754221, 6637754220, 12288731499, 12288731496, 6637754215
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "136",
+        "addr:postcode": "31-263",
+        "addr:street": "Władysława Łokietka",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "building": "retail",
+        "building:levels": "1",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "opening_hours": "Mo-Sa 06:00-23:30",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "payment:blik": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:diners_club": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:sodexo": "yes",
+        "payment:v_pay": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "phone": "+48 22 205 33 00",
+        "shop": "supermarket",
+        "source:building": "BDOT",
+        "source:geometry": "EGiB",
+        "website": "https://www.biedronka.pl/pl/shop,id,2771"
+      }
+    },
+    {
+      "type": "way",
+      "id": 451417815,
+      "center": {
+        "lat": 50.0286411,
+        "lon": 19.9354325
+      },
+      "nodes": [
+        4482502001, 4482502004, 4482502006, 4966698436, 4966698437, 9935832799,
+        4966698439, 4966698438, 4482502010, 4966698433, 4966698434, 4966698431,
+        4966698432, 4966698435, 4482502002, 4482502001
+      ],
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:street": "Cegielniana",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "building": "retail",
+        "building:levels": "2",
+        "check_date": "2023-04-04",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 06:00-22:00",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 451720826,
+      "center": {
+        "lat": 50.011004,
+        "lon": 19.9264573
+      },
+      "nodes": [
+        8207440423, 8207440422, 8207440421, 8207440420, 4485418889, 8207440419,
+        8207440418, 8207440417, 8207440416, 8207440423
+      ],
+      "tags": {
+        "addr:housenumber": "4",
+        "addr:street": "Sielska",
+        "brand": "Aldi",
+        "brand:wikidata": "Q41171373",
+        "brand:wikipedia": "en:Aldi",
+        "building": "retail",
+        "name": "Aldi",
+        "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-18:00",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 488087375,
+      "center": {
+        "lat": 50.0869712,
+        "lon": 20.019118
+      },
+      "nodes": [
+        4804464197, 4804464198, 9112145407, 9112145408, 8269365823, 4804464199,
+        4804464200, 4804464197
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "2",
+        "addr:place": "Osiedle Na Lotnisku",
+        "brand": "Aldi",
+        "brand:wikidata": "Q41171373",
+        "brand:wikipedia": "en:Aldi",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date:opening_hours": "2025-12-12",
+        "name": "Aldi",
+        "opening_hours": "Mo-Sa 06:00-22:00; Su 07:00-20:00",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 489830550,
+      "center": {
+        "lat": 50.028476,
+        "lon": 19.853107
+      },
+      "nodes": [
+        6652986788, 6652986787, 6652986786, 12475794314, 6652986799, 6652986798,
+        6652986797, 6652986796, 6652986795, 12475794301, 6652986794,
+        12475794338, 12475794337, 6652986793, 12475794336, 12475794335,
+        6652986792, 6652986791, 6652986789, 6652986790, 6652986788
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:city:simc": "0950463",
+        "addr:housenumber": "1",
+        "addr:postcode": "30-381",
+        "addr:street": "Zdzisława Jachimeckiego",
+        "addr:street:sym_ul": "06986",
+        "building": "retail",
+        "building:levels": "2",
+        "name": "Lewiatan",
+        "shop": "supermarket",
+        "source:addr": "emuia.gugik.gov.pl",
+        "source:building": "BDOT",
+        "source:geometry": "EGiB"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591578138,
+      "center": {
+        "lat": 50.0919185,
+        "lon": 19.8984279
+      },
+      "nodes": [5647584769, 5647584770, 5647584768, 5647584771, 5647584769],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "61",
+        "addr:postcode": "31-346",
+        "addr:street": "Stawowa",
+        "brand": "Auchan",
+        "brand:wikidata": "Q758603",
+        "check_date": "2025-08-23",
+        "level": "0",
+        "name": "Auchan",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 08:00-21:00",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 674991649,
+      "center": {
+        "lat": 50.0423082,
+        "lon": 20.0636403
+      },
+      "nodes": [
+        6673725625, 6673725624, 6673725623, 6673725622, 6673725621, 6673725620,
+        6673725619, 6673725618, 6673725617, 6673725616, 6673725615, 6673725614,
+        6673725613, 6673725612, 6673725611, 6673725610, 6673725609, 6673725608,
+        6673725607, 6673725606, 6673725605, 6673725604, 6673725603, 6673725602,
+        6673725601, 6673725600, 6673725599, 6673725598, 6673725625
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "67",
+        "addr:postcode": "30-798",
+        "addr:street": "Feliksa Wrobela",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "building": "yes",
+        "name": "Lewiatan",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-wrobela-67"
+      }
+    },
+    {
+      "type": "way",
+      "id": 707400630,
+      "center": {
+        "lat": 50.096619,
+        "lon": 20.0224585
+      },
+      "nodes": [
+        6647661351, 6647661350, 6647661349, 12817487091, 6647661348, 6647661347,
+        6647661346, 6647661345, 6647661344, 6647661339, 6647661335, 6647661343,
+        6647661342, 6647661365, 6647661341, 6647661367, 6647661340, 6647661368,
+        6647661351
+      ],
+      "tags": {
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "building": "yes",
+        "name": "Lewiatan",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 712509277,
+      "center": {
+        "lat": 50.06376,
+        "lon": 19.8825812
+      },
+      "nodes": [6699051980, 6699051981, 6699051982, 6699051983, 6699051980],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "206",
+        "addr:postcode": "30-212",
+        "addr:street": "Królowej Jadwigi",
+        "brand": "Lewiatan",
+        "brand:wikidata": "Q11755396",
+        "brand:wikipedia": "pl:Lewiatan (sieć handlowa)",
+        "building": "apartments",
+        "building:levels": "1",
+        "name": "Lewiatan",
+        "opening_hours": "Mo-Sa 07:00-21:30",
+        "roof:levels": "1",
+        "shop": "supermarket",
+        "website": "https://www.lewiatan.pl/znajdz-sklep/lewiatan-krakow-krakow-krowodrza-krolowej-jadwigi-206"
+      }
+    },
+    {
+      "type": "way",
+      "id": 766326062,
+      "center": {
+        "lat": 50.0687813,
+        "lon": 19.9460769
+      },
+      "nodes": [
+        7157205763, 7157205066, 7157205065, 7157205064, 7157205063, 7157205062,
+        7157205061, 7157205452, 1018233023, 1018233235, 2443511854, 2443511856,
+        2443511851, 7157205784, 2443511840, 4197648209, 1018233180, 7157205783,
+        1018233476, 4059020759, 4059020758, 2443511836, 3694258795, 4059020756,
+        7157205782, 3694258793, 7157205445, 7157205781, 7157205060, 7157205059,
+        7157205760, 7157205779, 7157205761, 7157205778, 7157205763
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "5",
+        "addr:postcode": "31-154",
+        "addr:street": "Pawia",
+        "brand": "Carrefour",
+        "brand:wikidata": "Q217599",
+        "brand:wikipedia": "fr:Carrefour (enseigne)",
+        "indoor": "room",
+        "level": "1",
+        "name": "Carrefour",
+        "note": "tak, są dwa osobne Carrefoury, jeden na 1 drugi na -1",
+        "opening_hours": "Mo-Sa 08:00-22:00,Su 09:00-21:00",
+        "operator": "Groupe Carrefour",
+        "operator:wikidata": "Q3117359",
+        "operator:wikipedia": "fr:Groupe Carrefour",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 999484295,
+      "center": {
+        "lat": 50.032658,
+        "lon": 19.9246027
+      },
+      "nodes": [9885509999, 9229795987, 9229795986, 9885509998, 9885509999],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "54",
+        "addr:postcode": "30-347",
+        "addr:street": "Kapelanka",
+        "alt_name": "Kaufland Kapelanka",
+        "brand": "Kaufland",
+        "brand:wikidata": "Q685967",
+        "level": "1",
+        "name": "Kaufland",
+        "opening_hours": "Mo-Sa 06:00-22:00; PH off",
+        "operator": "Kaufland Polska Markety Sp. z o.o. Sp. k.",
+        "phone": "+48 800 300 062",
+        "shop": "supermarket",
+        "website": "https://www.kaufland.pl/dla-klienta/sklepy.storeName=PL1033.html",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1089404438,
+      "center": {
+        "lat": 50.0638126,
+        "lon": 19.9998569
+      },
+      "nodes": [
+        9979343423, 9979343229, 9979343226, 9979343421, 9979343322, 9979343422,
+        9979343227, 9979343717, 9979342927, 9979343230, 9979342930, 9979342822,
+        9979342928, 9979343519, 9979343128, 9979343423
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:country": "PL",
+        "addr:housenumber": "67",
+        "addr:postcode": "31-580",
+        "addr:street": "Aleja Pokoju",
+        "brand": "Auchan",
+        "brand:wikidata": "Q758603",
+        "indoor": "room",
+        "level": "0",
+        "name": "Auchan",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-21:00; Jan 1 off; Jan 6 off; May 1 off; May 3 off; Aug 15 off; Nov 1 off; Nov 11 off; Dec 25-26 off",
+        "operator": "Auchan Polska Sp. z o.o.",
+        "room": "shop",
+        "shop": "supermarket",
+        "website": "https://www.auchan.pl/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1089809267,
+      "center": {
+        "lat": 50.0772659,
+        "lon": 20.0161796
+      },
+      "nodes": [
+        9982944642, 9982920436, 9982944644, 9982963125, 9982920437, 9982963439,
+        9982962835, 9982963225, 9982964117, 9985444483, 9982944641, 9982944643,
+        9982944642
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "2",
+        "addr:postcode": "31-870",
+        "addr:street": "Mieczysława Medweckiego",
+        "brand": "Carrefour",
+        "brand:wikidata": "Q217599",
+        "brand:wikipedia": "fr:Carrefour (enseigne)",
+        "contact:fax": "+48 12 2977102",
+        "contact:phone": "+48 12 2977100",
+        "level": "0",
+        "name": "Carrefour",
+        "opening_hours": "Mo-Th 07:00-22:00; Su 09:00-21:00; Fr,Sa 07:00-23:00",
+        "operator": "Groupe Carrefour",
+        "operator:wikidata": "Q3117359",
+        "operator:wikipedia": "fr:Groupe Carrefour",
+        "shop": "supermarket",
+        "website": "https://www.carrefour.pl/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1190378592,
+      "center": {
+        "lat": 50.0616517,
+        "lon": 20.0065337
+      },
+      "nodes": [
+        11052723462, 11052723463, 11052723464, 11052723465, 11052723466,
+        11052723467, 11052723468, 11420218634, 11420218635, 11420218636,
+        11052723469, 11333383049, 11333383048, 11052723462
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "8",
+        "addr:postcode": "31-586",
+        "addr:street": "Galicyjska",
+        "brand": "Kaufland",
+        "brand:wikidata": "Q685967",
+        "brand:wikipedia": "pl:Kaufland",
+        "building": "retail",
+        "name": "Kaufland",
+        "opening_hours": "Mo-Sa 06:00-23:00",
+        "shop": "supermarket",
+        "source:addr": "emuia.gugik.gov.pl",
+        "website": "https://sklep.kaufland.pl/uslugi/sklepy/krakow-czyzyny-7664.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1242342384,
+      "center": {
+        "lat": 50.0554328,
+        "lon": 19.9476565
+      },
+      "nodes": [
+        1334596491, 1334596494, 1334596520, 1334596533, 2985998865, 2985996831,
+        11544202589, 2986001083, 2986020068, 1334596608, 10103477335,
+        1334596498, 11544202587, 10103477336, 1334596491
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "28",
+        "addr:postcode": "31-031",
+        "addr:street": "Berka Joselewicza",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "building": "retail",
+        "email": "bok@biedronka.eu",
+        "name": "Biedronka",
+        "note": "Godziny otwarcia w niedziele handlowe: 08:00-23:00",
+        "opening_hours": "Mo-Sa 05:30-23:30",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "ref": "4743",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,1099"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1266694268,
+      "center": {
+        "lat": 50.0314985,
+        "lon": 19.8108545
+      },
+      "nodes": [
+        11765435718, 11765435719, 11765435720, 11765435721, 11765435722,
+        11765435723, 11765435718
+      ],
+      "tags": {
+        "addr:housenumber": "614",
+        "addr:place": "Piekary",
+        "addr:postcode": "32-060",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "building": "yes",
+        "changing_table": "no",
+        "check_date": "2024-06-19",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 05:30-23:30",
+        "operator": "Jeronimo Martins Polska",
+        "shop": "supermarket",
+        "toilets:access": "private",
+        "website": "https://www.biedronka.pl/pl"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1327828628,
+      "center": {
+        "lat": 50.058358,
+        "lon": 20.0066161
+      },
+      "nodes": [
+        10271155314, 10271155316, 12285056737, 10271155315, 12285056716,
+        12285056715, 12285056714, 12285056713, 10271155314
+      ],
+      "tags": {
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "pl:Lidl",
+        "indoor": "room",
+        "level": "0",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 06:00-22:30",
+        "room": "shop",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1343879436,
+      "center": {
+        "lat": 50.0639275,
+        "lon": 20.0206305
+      },
+      "nodes": [
+        12434411263, 12434411262, 12434411261, 12434411260, 12434411259,
+        12434411258, 12434411257, 12434411256, 12434411255, 12434411254,
+        12434411253, 12434411252, 12434411251, 12434411250, 12434411249,
+        12434411248, 12434411247, 12434411246, 12434411245, 12434411244,
+        12434411243, 12434411242, 12434411241, 12434411240, 12434411239,
+        12434411238, 12434411237, 12434411236, 12434411235, 12434411234,
+        12434411233, 12434411232, 12434411231, 12434411230, 12434411229,
+        12434411228, 12434411227, 12434411226, 12434411225, 12434411224,
+        12434411223, 12434411222, 12434411221, 12434411220, 12434411219,
+        12434411218, 12434411217, 12434411216, 12434411215, 12434411214,
+        12434411213, 12434411212, 12434411211, 12434411210, 12434411209,
+        12434411208, 12434411207, 12434411206, 12434411205, 12434411204,
+        12434411203, 12434411202, 12434411201, 12434369500, 12434369499,
+        12434369498, 12434369497, 12434369496, 12434369495, 12434369494,
+        12434369493, 12434369492, 12434369491, 12434369490, 12434369489,
+        12434369488, 12434369487, 12434369486, 12434369485, 12434369484,
+        12434369483, 12434369482, 12434369481, 12434369480, 12434369479,
+        12434369478, 12434369477, 12434369476, 12434369475, 12434369474,
+        12434369473, 12434369472, 12434369471, 12434369470, 12434369469,
+        12434369468, 12434369467, 12434369466, 12434369465, 12434369464,
+        12434369463, 12434369462, 12434369461, 12434369460, 12434369459,
+        12434369458, 12434369457, 12434369456, 12434369455, 12434369454,
+        12434369453, 12434369452, 12434369451, 12434369450, 12434369449,
+        12434369448, 12434369447, 12434369446, 12434369445, 12434369444,
+        12434369443, 12434369442, 12434369441, 12434369440, 12434369439,
+        12434369438, 12434369437, 12434369436, 12434369435, 12434369434,
+        12552127928, 12434369433, 12434369432, 12434369431, 12434411263
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "20",
+        "addr:postcode": "31-589",
+        "addr:street": "Sołtysowska",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "pl:Lidl",
+        "building": "retail",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 06:00-22:30",
+        "shop": "supermarket",
+        "source:building": "EGiB"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1359385924,
+      "center": {
+        "lat": 50.0873881,
+        "lon": 19.9813288
+      },
+      "nodes": [
+        12582790629, 12582790628, 12582790627, 12582790626, 12582790629
+      ],
+      "tags": {
+        "brand": "Auchan",
+        "brand:wikidata": "Q758603",
+        "brand:wikipedia": "pl:Auchan",
+        "indoor": "room",
+        "level": "0",
+        "name": "Auchan",
+        "opening_hours": "PH off; Mo-We,Sa-Su 07:30-22:00; Th,Fr 07:30-23:00",
+        "operator": "Auchan Polska Sp. z o.o.",
+        "room": "shop",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1385129271,
+      "center": {
+        "lat": 50.0875686,
+        "lon": 19.985756
+      },
+      "nodes": [
+        5193017723, 12823919929, 12823919928, 12823919927, 12823919918,
+        12823919907, 12823919903, 12823919896, 12823919893, 12823919892,
+        12823919890, 12823919917, 12823919916, 12823919915, 12823919914,
+        12823919913, 12823919912, 12823919911, 5193017723
+      ],
+      "tags": {
+        "addr:city": "Kraków",
+        "addr:housenumber": "41",
+        "addr:postcode": "31-876",
+        "addr:street": "Aleja Generała Tadeusza Bora-Komorowskiego",
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "indoor": "room",
+        "level": "0",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 09:00-22:00; Su 09:00-21:00",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,3387",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1388075664,
+      "center": {
+        "lat": 50.0750301,
+        "lon": 20.0137637
+      },
+      "nodes": [
+        12849474043, 8423938765, 5439581504, 5439581503, 8423938760, 8423938761,
+        9048125110, 8423938759, 8423938758, 5439581502, 12849474041,
+        12849474042, 12849474040, 12849474043
+      ],
+      "tags": {
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "email": "bok@biedronka.eu",
+        "level": "0",
+        "name": "Biedronka",
+        "name:ru": "Бедронка",
+        "opening_hours": "Mo-Sa 05:00-23:30",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket",
+        "website": "https://www.biedronka.pl/pl/shop,id,3084",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1430361635,
+      "center": {
+        "lat": 50.0912168,
+        "lon": 20.0569415
+      },
+      "nodes": [
+        13147994567, 6636679608, 13147994563, 13147994564, 13147994565,
+        13147994566, 13147994540, 6636679609, 6636679610, 13147994567
+      ],
+      "tags": {
+        "brand": "Biedronka",
+        "brand:wikidata": "Q857182",
+        "brand:wikipedia": "pl:Biedronka (sieć handlowa)",
+        "building:levels": "1",
+        "building:part": "yes",
+        "name": "Biedronka",
+        "opening_hours": "Mo-Sa 05:00-23:30",
+        "operator": "Jeronimo Martins Polska S.A.",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1466813008,
+      "center": {
+        "lat": 50.0540021,
+        "lon": 19.9546613
+      },
+      "nodes": [
+        13453157542, 13453157541, 13453157540, 13453157539, 13453157538,
+        13453157537, 13453157536, 13453157535, 13453157534, 13453157533,
+        13453157532, 13453157531, 13453157530, 13453157529, 13453157528,
+        13453157527, 13453157526, 13453157525, 13453157524, 13453157523,
+        13453157542
+      ],
+      "tags": {
+        "brand": "Carrefour Market",
+        "brand:wikidata": "Q2689639",
+        "brand:wikipedia": "pl:Carrefour Market",
+        "indoor": "room",
+        "level": "0",
+        "name": "Carrefour Market",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 09:30-20:30",
+        "shop": "supermarket",
+        "website": "https://www.carrefour.pl/sklep/krakow/podgorska-34"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1483387058,
+      "center": {
+        "lat": 50.0138056,
+        "lon": 19.9330018
+      },
+      "nodes": [
+        13602500501, 13602500512, 13602500513, 13602500511, 13602500509,
+        13602500507, 13602500505, 13602500503, 13602500514, 13602500518,
+        13602500516, 13602500517, 304385196, 2189844176, 304385195, 304385193,
+        3060591267, 3060590283, 3060591266, 3060591265, 3060591263, 3060591264,
+        3060591262, 3060591261, 1111449242, 304385191, 3060591260, 304385190,
+        3455907465, 12305526197, 304385188, 12305526193, 12305526192,
+        12305526189, 12305526188, 12305526185, 13602500488, 13602500498,
+        13602500499, 13602500500, 13602500501
+      ],
+      "tags": {
+        "brand": "Carrefour",
+        "brand:wikidata": "Q217599",
+        "indoor": "room",
+        "internet_access": "wlan",
+        "level": "0",
+        "name": "Carrefour",
+        "opening_hours": "Mo-Th 08:00-22:00; Fr-Sa 08:00-23:00; Su 09:00-21:00",
+        "shop": "supermarket",
+        "website": "https://www.carrefour.pl/"
+      }
+    }
+  ]
+}
