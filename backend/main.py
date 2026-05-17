@@ -6,6 +6,19 @@ from fastapi.middleware.cors import CORSMiddleware
 #uvicorn main:app --reload
 #venv\Scripts\activate
 
+class Polygon(BaseModel):
+    id: int
+    name: str
+    type: str  # forest, nature_reserve, protected_area
+    outer: list[list[tuple[float, float]]]
+    inner: list[list[tuple[float, float]]] 
+
+class Shop(BaseModel):
+    id: int
+    name: str
+    lat: float
+    lng: float
+
 app = FastAPI()
 
 app.add_middleware(
@@ -15,11 +28,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-class Shop(BaseModel):
-    id: int
-    name: str
-    lat: float
-    lng: float
+MOCK_POLYGONS: list[Polygon] = []
 
 MOCK_SHOPS: list[Shop] = []
 
@@ -55,8 +64,69 @@ def init_shops():
             lng=lng
         ))
 
+def init_polygons():
+    with open("polygons.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    for element in data["elements"]:
+        if element["type"] != "relation":
+            continue
+
+        tags = element.get("tags", {})
+        name = tags.get("name") or tags.get("ref")
+
+        if not name:
+            continue
+
+        # determine type
+        if tags.get("boundary") == "protected_area":
+            area_type = "protected_area"
+        elif tags.get("leisure") == "nature_reserve":
+            area_type = "nature_reserve"
+        elif tags.get("landuse") == "forest":
+            area_type = "forest"
+        else:
+            continue
+
+        # extract polygon rings from members
+        outer_rings = []
+        inner_rings = []
+
+        for member in element.get("members", []):
+            if member.get("type") != "way":
+                continue
+            ring = [
+                (node["lat"], node["lon"])
+                for node in member.get("geometry", [])
+            ]
+            if not ring:
+                continue
+            
+            role = member.get("role", "outer")
+            if role == "inner":
+                inner_rings.append(ring)
+            else:
+                outer_rings.append(ring)
+
+        if not outer_rings:
+            continue
+
+        MOCK_POLYGONS.append(Polygon(
+            id=element["id"],
+            name=name,
+            type=area_type,
+            outer=outer_rings,
+            inner=inner_rings
+        ))
+
+init_polygons()
+
 init_shops()
 
 @app.get("/stores", response_model=list[Shop])
 async def get_stores():
     return MOCK_SHOPS
+
+@app.get("/polygons", response_model=list[Polygon])
+async def get_polygons():
+    return MOCK_POLYGONS

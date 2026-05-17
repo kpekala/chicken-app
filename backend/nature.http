@@ -1,0 +1,4 @@
+POST https://overpass-api.de/api/interpreter HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+
+data=[out:json][timeout:60];(relation["boundary"="protected_area"](49.9,19.7,50.2,20.2);relation["leisure"="nature_reserve"](49.9,19.7,50.2,20.2);relation["landuse"="forest"](49.9,19.7,50.2,20.2););out geom;

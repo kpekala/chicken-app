@@ -5,38 +5,77 @@
 		lat: number;
 		lng: number;
 	}
+	interface Polygon {
+		id: number;
+		name: string;
+		type: 'protected_area' | 'nature_reserve' | 'forest';
+		outer: number[][][];
+		inner: number[][][];
+	}
+
 	import { onMount } from 'svelte';
 	import L from 'leaflet';
 	import 'leaflet/dist/leaflet.css';
 
 	let shops = $state([]) as Shop[];
+	let polygons = $state([]) as Polygon[];
 	let map: L.Map;
+
+	const AREA_COLORS = {
+		protected_area: '#2d6a4f',
+		nature_reserve: '#52b788',
+		forest: '#95d5b2'
+	};
 
 	async function fetchShops() {
 		const response = await fetch('http://localhost:8000/stores');
 		const data = await response.json();
-		console.log('shops from backend:', data);
+		console.log('shops:', data);
 		shops = data;
-		addMarkers();
 	}
 
-	function addMarkers() {
-		shops.forEach((shop) => {
-			const marker = L.marker([shop.lat, shop.lng]).addTo(map);
-			marker.bindPopup(`<b>${shop.name}</b>`);
-		});
+	async function fetchPolygons() {
+		const response = await fetch('http://localhost:8000/polygons');
+		const data = await response.json();
+		console.log('polygons:', data);
+		polygons = data;
+	}
+
+	function drawPolygons() {
+		for (const area of polygons) {
+			const color = AREA_COLORS[area.type] ?? '#52b788';
+
+			// Leaflet polygon format: [outerRing, holeRing1, holeRing2, ...]
+			const rings = [...area.outer, ...area.inner] as L.LatLngExpression[][];
+
+			L.polygon(rings, {
+				color: color,
+				fillColor: color,
+				fillOpacity: 0.3,
+				weight: 1
+			})
+				.bindPopup(`<b>${area.name}</b><br/>${area.type}`)
+				.addTo(map);
+		}
+	}
+
+	function drawShops() {
+		for (const shop of shops) {
+			L.marker([shop.lat, shop.lng]).bindPopup(`<b>${shop.name}</b>`).addTo(map);
+		}
 	}
 
 	onMount(async () => {
-		// init map
-		map = L.map('map').setView([50.061, 19.937], 13); // Kraków
+		map = L.map('map').setView([50.061, 19.937], 13);
 
 		L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 			attribution: '© OpenStreetMap contributors'
 		}).addTo(map);
 
-		// fetch shops after map is ready
-		await fetchShops();
+		await Promise.all([fetchShops(), fetchPolygons()]);
+
+		drawShops();
+		drawPolygons();
 	});
 </script>
 
