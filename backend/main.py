@@ -1,26 +1,51 @@
+import json
 from fastapi import FastAPI
-from fastapi.middleware.cors import CORSMiddleware
-import httpx
-import requests
-import urllib.parse
+from pydantic import BaseModel
+
 app = FastAPI()
 
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["http://localhost:5173"], 
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
+class Shop(BaseModel):
+    id: int
+    brand: str
+    lat: float
+    lng: float
 
-@app.get("/stores")
-def get_stores():
-    query = """[out:json][timeout:25];(node["shop"="supermarket"](50.0,19.8,50.1,20.1);way["shop"="supermarket"](50.0,19.8,50.1,20.1););out center;"""
-    response = requests.post(
-        "https://overpass-api.de/api/interpreter",
-        data={"data": query},
-        timeout=30
-    )
-    print("Status:", response.status_code)
-    print("Body:", response.text[:500])
-    print(urllib.parse.urlencode({"data": query}))
-    return response.json()
+MOCK_SHOPS: list[Shop] = []
+
+def init_shops():
+    with open("shops.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    for element in data["elements"]:
+        tags = element.get("tags", {})
+        brand = tags.get("brand") or tags.get("name")
+        
+        if not brand:
+            continue
+
+        # nodes have lat/lon directly, ways have a center object
+        if element["type"] == "node":
+            lat = element["lat"]
+            lng = element["lon"]
+        elif element["type"] == "way":
+            center = element.get("center", {})
+            lat = center.get("lat")
+            lng = center.get("lon")
+        else:
+            continue
+
+        if lat is None or lng is None:
+            continue
+
+        MOCK_SHOPS.append(Shop(
+            id=element["id"],
+            brand=brand,
+            lat=lat,
+            lng=lng
+        ))
+
+init_shops()
+
+@app.get("/stores", response_model=list[Shop])
+async def get_stores():
+    return MOCK_SHOPS
