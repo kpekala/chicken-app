@@ -3,6 +3,17 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
 
+# [out:json][timeout:60];(
+#   node["industrial"="slaughterhouse"]({{bbox}});
+#   way["industrial"="slaughterhouse"]({{bbox}});
+#   node["building"="fur_farm"]({{bbox}});
+#   way["building"="fur_farm"]({{bbox}});
+#   node["animal"="fur"]({{bbox}});
+#   relation["farmyard"="poultry"]({{bbox}});
+#   way["farmyard"="poultry"]({{bbox}});
+#   node["farmyard"="poultry"]({{bbox}});
+#   way["animal"="fur"]({{bbox}}););out center;
+
 #uvicorn main:app --reload
 #venv\Scripts\activate
 
