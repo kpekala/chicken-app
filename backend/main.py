@@ -17,7 +17,7 @@ app.add_middleware(
 
 class Shop(BaseModel):
     id: int
-    brand: str
+    name: str
     lat: float
     lng: float
 
@@ -50,7 +50,7 @@ def init_shops():
 
         MOCK_SHOPS.append(Shop(
             id=element["id"],
-            brand=brand,
+            name=brand,
             lat=lat,
             lng=lng
         ))
