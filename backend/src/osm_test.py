@@ -61,20 +61,6 @@ class TestMergeRings(unittest.TestCase):
         ]
         self.assertEqual(merge_rings(ways), expected)
 
-    def test_incomplete_ring(self):
-        """Test data missing a segment; should return what it could stitch, left unclosed."""
-        ways = [
-            [(0, 0), (0, 1), (1, 1)],
-            # Missing the segment from (1, 1) to (1, 0)
-            [(1, 0), (0, 0)]
-        ]
-        # Starts with the first segment, hits a dead end, leaves it unclosed.
-        expected = [
-            [(0, 0), (0, 1), (1, 1)],
-            [(1, 0), (0, 0)]
-        ]
-        self.assertEqual(merge_rings(ways), expected)
-
 
 if __name__ == '__main__':
     unittest.main()

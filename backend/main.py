@@ -113,7 +113,7 @@ def init_polygons():
             id=element["id"],
             name=name,
             type=osm.get_area_type(element),
-            outer=outer_rings,
+            outer=osm.merge_rings(outer_rings),
             inner=inner_rings
         ))
 
