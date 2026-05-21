@@ -46,7 +46,7 @@
 			const color = AREA_COLORS[area.type] ?? '#52b788';
 
 			// Leaflet polygon format: [outerRing, holeRing1, holeRing2, ...]
-			const rings = [...area.outer, ...area.inner] as L.LatLngExpression[][];
+			const rings = area.outer as L.LatLngExpression[][];
 
 			L.polygon(rings, {
 				color: color,

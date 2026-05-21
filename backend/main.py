@@ -1,4 +1,5 @@
 import json
+import src.osm as osm
 from fastapi import FastAPI
 from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
@@ -80,26 +81,12 @@ def init_polygons():
         data = json.load(f)
 
     for element in data["elements"]:
-        if element["type"] != "relation":
+        if not osm.is_polygon_interested(element):
             continue
 
         tags = element.get("tags", {})
         name = tags.get("name") or tags.get("ref")
 
-        if not name:
-            continue
-
-        # determine type
-        if tags.get("boundary") == "protected_area":
-            area_type = "protected_area"
-        elif tags.get("leisure") == "nature_reserve":
-            area_type = "nature_reserve"
-        elif tags.get("landuse") == "forest":
-            area_type = "forest"
-        else:
-            continue
-
-        # extract polygon rings from members
         outer_rings = []
         inner_rings = []
 
@@ -125,7 +112,7 @@ def init_polygons():
         MOCK_POLYGONS.append(Polygon(
             id=element["id"],
             name=name,
-            type=area_type,
+            type=osm.get_area_type(element),
             outer=outer_rings,
             inner=inner_rings
         ))
