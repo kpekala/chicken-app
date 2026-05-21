@@ -1,6 +1,6 @@
 import unittest
 
-from osm import merge_rings
+from src.osm import merge_rings
 
 class TestMergeRings(unittest.TestCase):
 
@@ -60,7 +60,3 @@ class TestMergeRings(unittest.TestCase):
             [(10, 10), (10, 11), (11, 11), (11, 10), (10, 10)]
         ]
         self.assertEqual(merge_rings(ways), expected)
-
-
-if __name__ == '__main__':
-    unittest.main()
