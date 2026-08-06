@@ -61,7 +61,78 @@
 
 	function drawShops() {
 		for (const shop of shops) {
-			L.marker([shop.lat, shop.lng]).bindPopup(`<b>${shop.name}</b>`).addTo(map);
+			const marker = L.marker([shop.lat, shop.lng]).bindPopup(`<b>${shop.name}</b>`);
+			marker.setIcon(getIcon(shop.name));
+			marker.addTo(map);
+		}
+	}
+
+	function getIcon(store: string) {
+		switch (store) {
+			case 'Biedronka':
+				return L.divIcon({
+					className: 'icon-circle biedronka-icon',
+					html: 'B',
+					iconSize: [24, 24],
+					iconAnchor: [12, 12],
+					popupAnchor: [0, -12]
+				});
+			case 'Lidl':
+				return L.divIcon({
+					className: 'icon-circle lidl-icon',
+					html: 'L',
+					iconSize: [24, 24],
+					iconAnchor: [12, 12],
+					popupAnchor: [0, -12]
+				});
+			case 'Żabka':
+				return L.divIcon({
+					className: 'icon-circle zabka-icon',
+					html: 'Ż',
+					iconSize: [24, 24],
+					iconAnchor: [12, 12],
+					popupAnchor: [0, -12]
+				});
+			case 'Carrefour':
+				return L.divIcon({
+					className: 'icon-circle carrefour-icon',
+					html: 'C',
+					iconSize: [24, 24],
+					iconAnchor: [12, 12],
+					popupAnchor: [0, -12]
+				});
+			case 'Tesco':
+				return L.divIcon({
+					className: 'icon-circle tesco-icon',
+					html: 'T',
+					iconSize: [24, 24],
+					iconAnchor: [12, 12],
+					popupAnchor: [0, -12]
+				});
+			case 'Lewiatan':
+				return L.divIcon({
+					className: 'icon-circle lewiatan-icon',
+					html: 'Lw',
+					iconSize: [24, 24],
+					iconAnchor: [12, 12],
+					popupAnchor: [0, -12]
+				});
+			case 'Aldi':
+				return L.divIcon({
+					className: 'icon-circle aldi-icon',
+					html: 'A',
+					iconSize: [24, 24],
+					iconAnchor: [12, 12],
+					popupAnchor: [0, -12]
+				});
+			default:
+				return L.divIcon({
+					className: 'icon-circle default-icon',
+					html: '?',
+					iconSize: [24, 24],
+					iconAnchor: [12, 12],
+					popupAnchor: [0, -12]
+				});
 		}
 	}
 

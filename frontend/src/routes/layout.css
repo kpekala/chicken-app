@@ -1,3 +1,41 @@
 @import 'tailwindcss';
+@import 'tailwindcss/preflight';
 @plugin '@tailwindcss/forms';
 @plugin '@tailwindcss/typography';
+
+.icon-circle {
+	border-radius: 50%;
+	border: 2px solid #ffffff;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+
+	font-weight: bold;
+	font-family: sans-serif;
+	text-align: center;
+	line-height: 20px; /* Should match the height of your iconSize */
+	font-size: 14px;
+}
+
+.biedronka-icon {
+	background-color: #e3000f;
+	color: #ffed00;
+}
+
+.lidl-icon {
+	background-color: #005eb8;
+	color: #ffd700;
+}
+
+.lewiatan-icon {
+	background-color: #ff6600;
+	color: #ffffff;
+}
+
+.aldi-icon {
+	background-color: #003580;
+	color: #ffcc00;
+}
+
+.default-icon {
+	background-color: #808080;
+	color: #ffffff;
+}
