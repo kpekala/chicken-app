@@ -1,41 +1,58 @@
 @import 'tailwindcss';
-@import 'tailwindcss/preflight';
 @plugin '@tailwindcss/forms';
 @plugin '@tailwindcss/typography';
 
-.icon-circle {
-	border-radius: 50%;
-	border: 2px solid #ffffff;
-	box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+.company-marker {
+	background: transparent;
+	border: 0;
+}
 
-	font-weight: bold;
-	font-family: sans-serif;
-	text-align: center;
-	line-height: 20px; /* Should match the height of your iconSize */
+.company-marker__pin {
+	position: absolute;
+	top: 2px;
+	left: 4px;
+	display: grid;
+	width: 34px;
+	height: 34px;
+	place-items: center;
+	transform: rotate(-45deg);
+	border: 3px solid #fffdf8;
+	border-radius: 12px 12px 12px 4px;
+	background: var(--marker-color);
+	box-shadow: 0 4px 10px rgb(15 23 42 / 28%);
+}
+
+.company-marker__pin::after {
+	position: absolute;
+	inset: 4px;
+	content: '';
+	border: 1px solid rgb(255 255 255 / 42%);
+	border-radius: 8px 8px 8px 2px;
+}
+
+.company-marker__pin span {
+	position: relative;
+	z-index: 1;
+	transform: rotate(45deg);
+	color: #fff;
+	font-family: 'Avenir Next', 'Segoe UI', sans-serif;
 	font-size: 14px;
+	font-weight: 800;
+	line-height: 1;
 }
 
-.biedronka-icon {
-	background-color: #e3000f;
-	color: #ffed00;
+.company-avatar {
+	position: relative;
+	border: 2px solid #fffdf8;
+	border-radius: 10px 10px 10px 3px;
+	background: var(--company-color, #64748b);
+	box-shadow: 0 2px 5px rgb(15 23 42 / 16%);
 }
 
-.lidl-icon {
-	background-color: #005eb8;
-	color: #ffd700;
-}
-
-.lewiatan-icon {
-	background-color: #ff6600;
-	color: #ffffff;
-}
-
-.aldi-icon {
-	background-color: #003580;
-	color: #ffcc00;
-}
-
-.default-icon {
-	background-color: #808080;
-	color: #ffffff;
+.company-avatar::after {
+	position: absolute;
+	inset: 3px;
+	content: '';
+	border: 1px solid rgb(255 255 255 / 45%);
+	border-radius: 6px 6px 6px 2px;
 }
