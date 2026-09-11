@@ -56,3 +56,18 @@
 	border: 1px solid rgb(255 255 255 / 45%);
 	border-radius: 6px 6px 6px 2px;
 }
+
+.company-chevron {
+	display: block;
+	width: 8px;
+	height: 8px;
+	transform: rotate(45deg);
+	transform-origin: 50% 50%;
+	border-right: 2px solid #94a3b8;
+	border-bottom: 2px solid #94a3b8;
+	transition: transform 200ms ease;
+}
+
+.company-chevron--expanded {
+	transform: rotate(225deg);
+}

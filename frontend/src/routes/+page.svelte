@@ -229,11 +229,12 @@
 									>{company.shopCount} mapped {company.shopCount === 1 ? 'shop' : 'shops'}</span
 								>
 							</span>
-							<span
-								class:rotate-180={expandedCompanyId === company.id}
-								class="text-lg leading-none text-slate-400 transition-transform duration-200"
-								aria-hidden="true">⌄</span
-							>
+							<span class="grid h-7 w-7 shrink-0 place-items-center" aria-hidden="true">
+								<span
+									class:company-chevron--expanded={expandedCompanyId === company.id}
+									class="company-chevron"
+								></span>
+							</span>
 						</button>
 
 						{#if expandedCompanyId === company.id}
